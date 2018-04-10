@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- EADSchemaTemplate.xml was revised 20170208 to include information specific to Texas Medical Center Library, McGovern Historical Center and LOC global link to ead.xsd by Sandra Yates 02/08/2017 -->
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" relatedencoding="MARC21"> 
+  <eadheader langencoding="iso639-2b" audience="internal" repositoryencoding="iso15511"
+    countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601">
+    <eadid countrycode="US" mainagencycode="US-txham">urn:taro:hamtmc.00163<!-- Enter TARO repository code, five-digit number unique for your repository (from 00000 to 99999) --></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Howard T. Barkley, MD papers; <!-- Enter collection title -->
+          <date era="ce" calendar="gregorian" type="inclusive" normal="1930/1980">1930-1980; </date>
+          <num>MS 028</num>
+        </titleproper>
+
+        <author>Finding aid prepared by Erin Schlothauer.<!-- Enter name if author(s) responsible for intellectual content of the finding aid --></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Houston Academy of Medicine-Texas Medical Center Library.<!-- Enter name of your repository  --></publisher>
+        <date era="ce" calendar="gregorian">20XX<!-- Encode the date the finding aid was published (i.e. added to TARO server) --></date>
+        <address>
+          <addressline>1133 John Freeman Blvd.</addressline>
+          <addressline>Houston, TX 77030-2809.</addressline>
+          <addressline> mcgovern@library.tmc.edu</addressline>
+          <addressline>713-799-7899</addressline>   
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded into EAD by Sandra Yates.<!-- Enter a statement about the encoding of the finding aid (name of encoder) --><date>April 6, 2018</date>
+      </creation>
+      <langusage>Finding aid written in <language langcode="eng" scriptcode="Latn">English.</language></langusage>
+      <descrules>Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <!-- Used to keep track of changes and updates to the finding aid; not applicable if creating new finding aid -->
+      <change>
+        <date normal="0000" era="ce" calendar="gregorian"><!-- Enter date of change --></date>
+        <item><!-- Enter information about changes to finding aid --></item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" audience="external">
+    <did>
+      <head>Collection Overview</head>
+      <!-- Alternate: <head>Descriptive Summary</head> -->
+      <origination label="Creator:">
+        <persname source="lcnaf" encodinganalog="100">Barkley, Howard T.<!-- For Manuscript Collections (MS), Enter name of individual (a person's name) Lastname, Firstname --></persname>
+        <corpname source="lcnaf" encodinganalog="110"><!-- For Institutional Collection (IC), Enter corporate name --></corpname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245$a">Howard T. Barkley, MD papers<!-- Enter Collection Title --></unittitle>
+      <unitdate label="Dates:" type="inclusive" encodinganalog="245$f" normal="1990/1980" era="ce" calendar="gregorian">1930-1980<!-- Enter dates and repeat date(s) in normal="1944/1999" --></unitdate>
+      <unitid label="Identification:" countrycode="US" repositorycode="US-txham" encodinganalog="099">MS 028<!-- Enter collection identification number; example MS 002 (with space) --></unitid>
+      <physdesc label="Quantity:" encodinganalog="300$a"><extent>2.25 cubic feet <!-- Enter the extent; example Number of cubic or linear 
+	 		feet, and/or number of containers and/or items, eg., 3 cubic feet. --></extent><extent>(3 boxes)<!-- If number of feet entered above, enter here 
+	 			number of containers if desired, eg., (7 boxes) --></extent></physdesc>
+      <repository label="Repository:" encodinganalog="852$a">
+        <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new"
+          xlink:actuate="onRequest" xlink:href="http://library.tmc.edu/mcgovern">
+          <corpname><subarea>John P. McGovern Historical Collections and Research Center<!-- Enter secondary administrative level within a repository, e.g. Archive --></subarea>, Houston Academy of Medicine-Texas Medical Center Library<!-- Enter repository name, e.g. Library --></corpname>
+        </extref>
+      </repository>
+
+      <abstract label="Abstract:" encodinganalog="520$a">The Howard Barkley, MD papers (MS 028) contain degrees, licenses, newsletters, clippings, photographs, certificates, awards, and a book related to his career in thoracic surgery and his personal life. Dr. Barkley was an associate of professor of clinical surgery at Baylor College of Medicine, chief of thoracic surgery at MD Anderson Hospital. He also served on the staff of Hermann Hospital as chief of thoracic surgery, and he was chairman of the medical staff at Houston AntiTubercular Clinic. The collection spans from 1930 to 1980 and consists of 3 boxes (1 document and 2 oversized), equaling 2.25 cubic feet. The materials are in good condition.</abstract>
+
+      <langmaterial label="Language:" encodinganalog="546$a">
+        <language langcode="eng" scriptcode="Latn">English, </language>
+        <language langcode="spa" scriptcode="Latn">Spanish</language>
+      </langmaterial>
+      <!--
+       Other language codes: 
+        <language langcode="spa" scriptcode="Latn">Spanish</language>
+        <language langcode="por" scriptcode="Latn">Portuguese</language>
+        <language langcode="fre" scriptcode="Latn">French</language>
+      -->
+    </did>
+    
+    <bioghist encodinganalog="545"><head>Biographical Note</head><!-- Or: Historical Note (for institutional collections) -->
+      <p>Howard T. Barkley, Sr. was born in Tucson, AZ on November 30, 1901. He graduated from the University of Arizona in 1931 with his Bachelor's degree and the Columbia University College of Physicians and Surgeons with a MD in 1935. He first served as an intern at Lenox Hill Hospital in New York before going to the Presbyterian Hospital, also of New York, to serve as a surgical resident. He received further training at the University of Michigan Hospital in Ann Arbor before moving permanetnly to Houston, TX in 1941.</p>
+        
+        <p>During World War II he served as a flight surgeon for the United States Army Air Corps, reaching the rank of lieutenant colonel. He was an associate of professor of clinical surgery at Baylor College of Medicine from 1943-1980 and chief of thoracic surgery at MD Anderson Hospital from 1944-1968. Barkley also served on the staff of Hermann Hospital in Houston from 1942 to 1972, and as chief of thoracic surgery there from 1944-1968. In 1948 he was appointed chairman of the medical staff at Houston AntiTubercular Clinic. Barkley served in a variety of capacities for different regional medical organizations. Barkley served as president of the Houston Surgical Society in 1952, the Texas Tuberculosis Association from 1956-1958, the Harris County Medical Society in 1967, and the Houston chapter of the American Tuberculosis Association. He served as vice president of the National Tuberculosis Association in 1963-1964. He was a founding member of the American Association of Thoracic Surgery in 1948 and the Society of Thoracic Surgeons in 1964.</p>
+        
+        <p>Howard T. Barkley died on January 26, 1981.</p>
+    </bioghist>
+    
+    <scopecontent encodinganalog="520$b">
+      <head>Scope and Contents Note</head>
+      <!-- Text in the <head> can be changed to the repositories preference -->
+      <p>The Howard T. Barkley, MD papers (MS 028) contains degrees, licenses, newsletters, clippings, photographs, certificates, awards, and a book that document the career of Dr. Howard T. Barkley in thoracic surgery. The collection primarily focuses on Dr. Barkley's academic and professional achievements; however, there is a small series on his personal life as well as a collection of photographs. The collection consists of 3 boxes (1 document and 2 oversized) and equals 2.25 cubic feet. The materials are in good condition.</p>
+    </scopecontent>
+
+    <accessrestrict encodinganalog="506">
+      <head>Access Restrictions</head>
+      <p>Unrestricted. Material is open for research.<!-- Enter access restrictions if applicable; if no restrictions then enter "Unrestricted." --></p>
+    </accessrestrict>
+
+    <userestrict encodinganalog="540">
+      <head>Use Restrictions</head>
+      <p>Permission to publish from this material must be facilitated through the repository, McGovern Historical Center.<!-- Enter use restrictions if applicable --></p>
+    </userestrict>
+
+    <controlaccess>
+      <head>Index Terms</head>
+      <!-- Change the SOURCE attribute if applicable. See list of preferred authority sources in the TARO encoding guidelines -->
+      <controlaccess>
+        <head>Subjects (Persons)</head>
+        <persname source="lcnaf" encodinganalog="600">Barkley, Howard T.<!-- Enter Library of Congress name authority --></persname>
+        <persname source="lcnaf" encodinganalog="600"><!-- Enter Library of Congress name authority --></persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects (Organizations)</head>
+        <corpname source="lcnaf" encodinganalog="610">Baylor College of Medicine<!-- Enter Library of Congress corporate name authority --></corpname>
+        <corpname source="lcnaf" encodinganalog="610">MD Anderson Hospital<!-- Enter Library of Congress corporate name authority --></corpname>
+        <corpname source="lcnaf" encodinganalog="610">Hermann Hospital<!-- Enter Library of Congress corporate name authority --></corpname>
+        <corpname source="lcnaf" encodinganalog="610">Houston-Harris County TB Association<!-- Enter Library of Congress corporate name authority --></corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects</head>
+        <!-- Change the SOURCE attribute if applicable -->
+        <subject source="lcsh" encodinganalog="650">Thoracic Surgery<!-- Enter Library of Congress subject heading --></subject>
+        <subject source="lcsh" encodinganalog="650">Tuberculosis</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Places</head>
+        <geogname source="lcsh" encodinganalog="651">Houston (Texas)<!-- Enter Library of Congress subject heading for places --></geogname>
+        <geogname source="lcsh" encodinganalog="651">Texas Medical Center<!-- Enter Library of Congress subject heading for places --></geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Document Types</head>
+        <!-- OR <head>Genres</head> -->
+        <genreform source="aat" encodinganalog="655">Paper<!-- Enter genre form here --></genreform>
+        <genreform source="aat" encodinganalog="655">Photographs<!-- Enter genre form here --></genreform>
+        <genreform source="aat" encodinganalog="655">Correspondence<!-- Enter genre form here --></genreform>
+        <genreform source="aat" encodinganalog="655">Certificates<!-- Enter genre form here --></genreform>
+      </controlaccess>
+       <controlaccess>
+        <head>Occupation</head>
+        <occupation source="aat" encodinganalog="657">Physician<!-- Enter occupation --></occupation>
+        <occupation source="aat" encodinganalog="657"><!-- Enter occupation --></occupation>
+      </controlaccess>
+     </controlaccess>
+
+    <prefercite encodinganalog="524">
+      <head>Preferred Citation</head>
+      <p><!-- Edit preferred citation with collection Title and Number -->Howard T. Barkley, MD papers; MS 028; John P. McGovern Historical Collections and Research Center, Houston Academy of Medicine-Texas Medical Center Library.</p>
+        
+        <p>Please cite the box and folder numbers where appropriate.</p>
+    </prefercite>
+
+    <processinfo encodinganalog="583">
+      <head>Processing Information</head>
+      <p>Photographs reincorporated into collection from IC 098 TMC Library Historical Photograph Collection. Photographs were originally donated by Dr. Barkley in 1982.</p>
+    </processinfo>
+
+    <relatedmaterial encodinganalog="544">
+      <head>Related Material</head>
+      <p>	
+        IC 098 HAM-TMC Library Historical Photograph Collection; IC 034 San Jacinto Lung Association records; MS 017 Joe R. Gandy; MS 210 Judson L. Taylor, MD papers</p>
+    </relatedmaterial>
+    
+    <accruals encodinganalog="584">
+      <head>Additions</head>
+      <p>No accurals are expected for this collection.<!-- Enter information about anticipated additions to the collection --></p>
+    </accruals>
+    <acqinfo>
+      <head>Acquisition Information</head>
+      <p>Gifted from Mrs. Howard T. Barkley in 1982.</p>
+    </acqinfo>
+
+    <!-- Begin Description of Subordinate Components  -->
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+
+      <c01 id="ser1" level="series">
+        <!-- Enter appropriate LEVEL (e.g. "series" "file" or "item" -->
+        <did>
+          <unittitle>
+            Series I: Education and Professional Accomplishments, </unittitle>
+          <unitdate normal="1930/1970">1930-1970<!-- Enter unit date --></unitdate>
+        </did>
+        <scopecontent><p>This series includes certificates accrued throughout Dr. Barkley's education and career.</p></scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle encodinganalog="245$a">University of Arizona Certificate, </unittitle>
+            <unitdate normal="1930/1931">1930-1931<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle encodinganalog="245$a">University of Arizona Bachelor's Degree, </unittitle>
+            <unitdate normal="1931">1931<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle encodinganalog="245$a">Letters of Recommendation, </unittitle>
+            <unitdate normal="1934">1934<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle encodinganalog="245$a">Alpha Omega Alpha membership, </unittitle>
+            <unitdate normal="1935">1935<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle encodinganalog="245$a">Columbia University Commencement Program, </unittitle>
+            <unitdate normal="1935">1935<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle encodinganalog="245$a">Copy of Columbia Diploma and Hippocratic Oath, </unittitle>
+            <unitdate normal="1935">1935<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle encodinganalog="245$a">New York Registration and Medical License, </unittitle>
+            <unitdate normal="1935">1935<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle encodinganalog="245$a">Columbia University Appointment, </unittitle>
+            <unitdate normal="1937">1937<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle encodinganalog="245$a">Michigan Medical License, </unittitle>
+            <unitdate normal="1939">1939<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle encodinganalog="245$a">University of Michigan Certificates, </unittitle>
+            <unitdate normal="1939/1941">1939-1941<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+            <unittitle encodinganalog="245$a">Letter signed by A.O. Singleton, </unittitle>
+            <unitdate normal="1941">1941<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+            <unittitle encodinganalog="245$a">American Trudeau Society, </unittitle>
+            <unitdate normal="1941">1941<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">13</container>
+            <unittitle encodinganalog="245$a">Professional Card, </unittitle>
+            <unitdate normal="1942">1942<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+            <unittitle encodinganalog="245$a">Army Certificates, </unittitle>
+            <unitdate normal="1943/1945">1943-1945<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+            <unittitle encodinganalog="245$a">Association with Baylor College of Medicine, </unittitle>
+            <unitdate normal="1943/1979">1943-1979<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">16</container>
+            <unittitle encodinganalog="245$a">American Association of Thoracic Surgery, </unittitle>
+            <unitdate normal="1944">1944<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">17</container>
+            <unittitle encodinganalog="245$a">Board of Thoracic Surgery, </unittitle>
+            <unitdate normal="1948">1948<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">18</container>
+            <unittitle encodinganalog="245$a">Houston Surgical Society Certificates, </unittitle>
+            <unitdate normal="1949">1949<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">19</container>
+            <unittitle encodinganalog="245$a">Thoracic Surgery Associations Various Certificates, </unittitle>
+            <unitdate normal="1950/1954">1950-1954<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">20</container>
+            <unittitle encodinganalog="245$a">Houston/Harris County Tuberculosis Association, </unittitle>
+            <unitdate normal="1961/1963">1961-1963<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">21</container>
+            <unittitle encodinganalog="245$a">Museum of Medical Science, </unittitle>
+            <unitdate normal="1969">1969<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">22</container>
+            <unittitle encodinganalog="245$a">Tuberculosis Plaque, </unittitle>
+            <unitdate normal="1969/1970">1969-1970<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <!-- Add other component levels as appropriate -->
+      </c01>
+      <c01 id="ser2" level="series">
+        <!-- Enter appropriate LEVEL (e.g. "series" "file" or "item" -->
+        <did>
+          <unittitle>Series II: Spanish Language Medical Involvement, </unittitle>
+          <unitdate normal="1954/1974">1954-1974<!-- Enter unit date --></unitdate>
+        </did>
+        <scopecontent><p>This series includes papers related to Dr. Barkley's relationship with medical professionals in Mexico and Spanish-language accommodation in Houston.</p></scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">23</container>
+            <unittitle encodinganalog="245$a">Instituto Nacional de Neumologia, </unittitle>
+            <unitdate normal="1954">1954<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">24</container>
+            <unittitle encodinganalog="245$a">Congresso Mexicano de Medicina Naval (Program), </unittitle>
+            <unitdate normal="1963">1963<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">25</container>
+            <unittitle encodinganalog="245$a">Hermann Hospital - Spanish Language Guide, </unittitle>
+            <unitdate normal="1974">1974<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <!-- Add other component levels as appropriate -->
+      </c01>
+      <c01 id="ser3" level="series">
+        <!-- Enter appropriate LEVEL (e.g. "series" "file" or "item" -->
+        <did>
+          <unittitle>
+            Series III: Correspondance, </unittitle>
+          <unitdate normal="1946/1972">1946-1972</unitdate>
+        </did>
+        <scopecontent><p>This series includes papers related to Dr. Barkley's relationship with medical professionals in Mexico and Spanish-language accommodation in Houston.</p></scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">26</container>
+            <unittitle encodinganalog="245$a">Letter from John Alexander, MD, </unittitle>
+            <unitdate normal="1946">1946<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">27</container>
+            <unittitle encodinganalog="245$a">Correspondance with Dr. Manuel Velasco Suarez, </unittitle>
+            <unitdate normal="1970">1970<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">28</container>
+            <unittitle encodinganalog="245$a">Hospital Correspondance, </unittitle>
+            <unitdate normal="1972">1972<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <!-- Add other component levels as appropriate -->
+      </c01>
+      <c01 id="ser4" level="series">
+        <!-- Enter appropriate LEVEL (e.g. "series" "file" or "item" -->
+        <did>
+          <unittitle>Series IV: Personal, </unittitle>
+          <unitdate normal="1930/1977">1930-1977</unitdate>
+        </did>
+        <scopecontent><p>This series includes correspondence, news clippings and certificates related to Dr. Barkley's personal life.</p></scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">29</container>
+            <unittitle encodinganalog="245$a">Personal Correspondance, </unittitle>
+            <unitdate normal="1930/1939">1930s<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">30</container>
+            <unittitle encodinganalog="245$a">Notes from Patients and Friends, </unittitle>
+            <unitdate normal="1941/1946">1941-1946<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">31</container>
+            <unittitle encodinganalog="245$a">News Clippings, </unittitle>
+            <unitdate normal="1943/1968">1943-1968<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">32</container>
+            <unittitle encodinganalog="245$a">Extracts from Newsletters, </unittitle>
+            <unitdate normal="1959/1969">1959-1969<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">33</container>
+            <unittitle encodinganalog="245$a">Boating and Duck Calling Certificates, </unittitle>
+            <unitdate normal="1970/1975">1970-1975<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">34</container>
+            <unittitle encodinganalog="245$a">Cameron Haight Library Dedication, </unittitle>
+            <unitdate normal="1977">1977<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">35</container>
+            <unittitle encodinganalog="245$a">Cameron Haight - Personal Recollections, book, </unittitle>
+            <unitdate normal="1977">1977<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <!-- Add other component levels as appropriate -->
+      </c01>
+      <c01 id="ser5" level="series">
+        <!-- Enter appropriate LEVEL (e.g. "series" "file" or "item" -->
+        <did>
+          <unittitle>Series V: Photographs, </unittitle>
+          <unitdate normal="1930/1980">1930-1980<!-- Enter unit date --></unitdate>
+        </did>
+        <scopecontent><p>This series includes photographs that span Dr. Barkley's life and career.</p></scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">P-2874</container>
+            <unittitle encodinganalog="245$a">Lt. Col. H.T. Barkley and Pvt. H.T. Barkley, Jr., </unittitle>
+            <unitdate normal="1945">1945<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">P-2876</container>
+            <unittitle encodinganalog="245$a">Judson Taylor in his Naval Uniform, </unittitle>
+            <unitdate normal="1940/1949">1940s<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">P-2877</container>
+            <unittitle encodinganalog="245$a">Dr. and Mrs. Howard T. Barkley, Sr., Dr. amd Mrs. C.F. Jorns, and Dr. Fred Aves, </unittitle>
+            <unitdate normal="1980">1980<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">P-2878</container>
+            <unittitle encodinganalog="245$a">Joe R. Gandy, </unittitle>
+            <unitdate normal="1950/1959">1950s<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">P-2882</container>
+            <unittitle encodinganalog="245$a">Miguel Bayoria, Howard T. Barkley and Gen. Torres de Auda at the Instituto Nacional de Neumologia, </unittitle>
+            <unitdate normal="1954">1954<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">P-2884</container>
+            <unittitle encodinganalog="245$a">Mayor Louie Welch, Howard T. Barkley, Sr. and other men at the presentation of certificates for the "End Measles Campaign," </unittitle>
+            <unitdate normal="1967">1967<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">P-2885</container>
+            <unittitle encodinganalog="245$a">Howard T. Barkley and Herbert de Young, President of the National Tuberculosis Association, </unittitle>
+            <unitdate normal="1960/1969">1960s<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">P-2886</container>
+            <unittitle encodinganalog="245$a">Dr. Howard T. Barkley and two other men at the Tri-State Trudeau Meeting in Biloxi, Mississippi, </unittitle>
+            <unitdate normal="1956">1956<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">P-3019</container>
+            <unittitle encodinganalog="245$a">Violet H. Keiller with a microscope, </unittitle>
+            <unitdate normal="1950/1959">1950s<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">P-3020</container>
+            <unittitle encodinganalog="245$a">Orville Witherbee and Howard T Barkley working in a Pathology lab at Lenox Hill Hospital, New York, </unittitle>
+            <unitdate normal="1935">1935<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">P-3021</container>
+            <unittitle encodinganalog="245$a">Dr. Barkley speaking at a podium, </unittitle>
+            <unitdate normal="1956">1956<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">P-3022</container>
+            <unittitle encodinganalog="245$a">Dr. Barkley at a dinner in Mexico City, </unittitle>
+            <unitdate normal="1961">1961<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">P-3023</container>
+            <unittitle encodinganalog="245$a">Dr Barkley at a Thoracic Surgery Meeting in Miami, Florida, </unittitle>
+            <unitdate normal="0000/0000">undated<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">P-3024</container>
+            <unittitle encodinganalog="245$a">John Alexander, </unittitle>
+            <unitdate normal="1930/1939">1930s<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">P-3025</container>
+            <unittitle encodinganalog="245$a">Dr. Whipple, Chief Surgeon at the College of Physicians at Columbia University, </unittitle>
+            <unitdate normal="1952">1952<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">P-3026</container>
+            <unittitle encodinganalog="245$a">Dr. Barkley at the Thoracic Surgery Conference in Montreal, </unittitle>
+            <unitdate normal="1954">1954<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">P-3027</container>
+            <unittitle encodinganalog="245$a">Dr. Barkley, </unittitle>
+            <unitdate normal="1964">1964<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">N-3027</container>
+            <unittitle encodinganalog="245$a">Dr. Barkley, negatives, </unittitle>
+            <unitdate normal="1964">1964<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">P-3032</container>
+            <unittitle encodinganalog="245$a">The house staff of Lenox Hill Hospital in New York, </unittitle>
+            <unitdate normal="1937">1937<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">P-3033</container>
+            <unittitle encodinganalog="245$a">The house staff of Lenox Hill Hospital in New York, </unittitle>
+            <unitdate normal="1936">1936<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">OV 271</container>
+            <container type="folder">P-2879</container>
+            <unittitle encodinganalog="245$a">Judson Taylor, </unittitle>
+            <unitdate normal="1942">1942<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">OV 271</container>
+            <container type="folder">P-3018</container>
+            <unittitle encodinganalog="245$a">the Class of 1935 from the College of Physicians and Surgeons at Columbia University, </unittitle>
+            <unitdate normal="1935">1935<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">OV 271</container>
+            <container type="folder">P-3028</container>
+            <unittitle encodinganalog="245$a">Dr. Barkley, </unittitle>
+            <unitdate normal="1960/1969">1960s<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <!-- Add other component levels as appropriate -->
+      </c01>
+      <c01 id="ser6" level="series">
+        <!-- Enter appropriate LEVEL (e.g. "series" "file" or "item" -->
+        <did>
+          <unittitle>Series VI: Awards and Plaques, </unittitle>
+          <unitdate normal="1935/1977">1935-1977<!-- Enter unit date --></unitdate>
+        </did>
+        <scopecontent><p>This series includes degrees, plaques and awards from Dr. Barkley's career.</p></scopecontent>
+        <c02 level="file">
+          <did>
+            <container type="box">OV 271</container>
+
+            <unittitle encodinganalog="245$a">Columbia University Doctorate Degree, </unittitle>
+            <unitdate normal="1935">1935<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">OV 271</container>
+
+            <unittitle encodinganalog="245$a">Lenox Hill Hospital Certificate of Employment, </unittitle>
+            <unitdate normal="1935/1937">1935-1937<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">OV 271</container>
+
+            <unittitle encodinganalog="245$a">Assistant Resident in Surgery at the Presbyterian Hospital Certificate, </unittitle>
+            <unitdate normal="1937/1939">1937-1939<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">OV 271</container>
+
+            <unittitle encodinganalog="245$a">Texas Surgical Society Fellowship Certificate, </unittitle>
+            <unitdate normal="1946">1946<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">OV 271</container>
+
+            <unittitle encodinganalog="245$a">American Society of Clinical Hypnosis Membership Certificate, </unittitle>
+            <unitdate normal="1958">1958<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">OV 271</container>
+
+            <unittitle encodinganalog="245$a">President - Harris County Medical Society, </unittitle>
+            <unitdate normal="1967">1967<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">OV 271</container>
+
+            <unittitle encodinganalog="245$a">San Jacinto Tuberculosis and Respiratory Disease Association, </unittitle>
+            <unitdate normal="1971">1971<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">OV 271</container>
+
+            <unittitle encodinganalog="245$a">Texas Medical License, </unittitle>
+            <unitdate normal="1977">1977<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">OV 271</container>
+
+            <unittitle encodinganalog="245$a">Recognition of Service to MD Anderson, </unittitle>
+            <unitdate normal="0000/0000">undated<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">OV 271</container>
+
+            <unittitle encodinganalog="245$a">Texas Tuberculosis and Respiratory Disease Association Recognition, </unittitle>
+            <unitdate normal="0000/0000">undated<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">OV 272</container>
+
+            <unittitle encodinganalog="245$a">Chief of the Department of Thoracic Surgery, </unittitle>
+            <unitdate normal="1946/1968">1946-1968<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">OV 272</container>
+
+            <unittitle encodinganalog="245$a">Houston Surgical Society - President, </unittitle>
+            <unitdate normal="1952">1952<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">OV 272</container>
+
+            <unittitle encodinganalog="245$a">President of Medical Staff at Memorial Baptist Hospital, </unittitle>
+            <unitdate normal="1960">1960<!--Date or range of dates of component material, or "undated"; repeatable--></unitdate>
+          </did>
+        </c02>
+        <!-- Add other component levels as appropriate -->
+      </c01>
+    </dsc>
+    <!-- End Description of Subordinate Components -->
+  </archdesc>
+</ead>
