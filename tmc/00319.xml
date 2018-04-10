@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- EADSchemaTemplate.xml was revised 20170208 to include information specific to Texas Medical Center Library, McGovern Historical Center and LOC global link to ead.xsd by Sandra Yates 02/08/2017 -->
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" relatedencoding="MARC21"> 
+  <eadheader langencoding="iso639-2b" audience="internal" repositoryencoding="iso15511"
+    countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601">
+    <eadid countrycode="US" mainagencycode="US-txham">urn:taro:hamtmc.00319<!-- Enter TARO repository code, five-digit number unique for your repository (from 00000 to 99999) --></eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Lee D. Cady V.A. Photograph Collection <!-- Enter collection title -->
+          <date era="ce" calendar="gregorian" type="inclusive" normal="1944/1999">1946-1963; <!-- Enter normalized date, edit the normal attribute to match the inclusive dates. Example, normal="1944/1999". For more details see the TARO Best Practices Guide for Dates --></date>
+          <num>MS 217</num>
+        </titleproper>
+
+        <author>Finding aid prepared by Chris Pallenik.<!-- Chris Pallenik--></author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Houston Academy of Medicine-Texas Medical Center Library.<!-- The John P. McGovern Historical Collections and Research Center  --></publisher>
+        <date era="ce" calendar="gregorian">20XX<!-- Encode the date the finding aid was published (i.e. added to TARO server) --></date>
+        <address>
+          <addressline>1133 John Freeman Blvd.</addressline>
+          <addressline>Houston, TX 77030-2809.</addressline>
+          <addressline> mcgovern@library.tmc.edu</addressline>
+          <addressline>713-799-7899</addressline>   
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded into EAD by Chris Pallenik.<!-- Chris Pallenik --><date>February 1, 2018<!-- Date of the initial encoding Month Day, Year --></date>
+      </creation>
+      <langusage>Finding aid written in <language langcode="eng" scriptcode="Latn">English.</language></langusage>
+      <descrules>Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <!-- Used to keep track of changes and updates to the finding aid; not applicable if creating new finding aid -->
+      <change>
+        <date normal="0000" era="ce" calendar="gregorian"><!-- Enter date of change --></date>
+        <item><!-- Enter information about changes to finding aid --></item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" audience="external">
+    <did>
+      <head>Collection Overview</head>
+      <!-- Alternate: <head>Descriptive Summary</head> -->
+      <origination label="Creator:">
+        <persname source="lcnaf" encodinganalog="100">Cady, Lee D. <!-- Cady, Lee D. --></persname>
+        <corpname source="lcnaf" encodinganalog="110"><!-- John P. McGovern  Historical Collections and Research Center --></corpname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245$a"><!-- -->Lee D. Cady V.A. Photograph Collection</unittitle>
+      <unitdate label="Dates:" type="inclusive" encodinganalog="245$f" normal="1944/1999" era="ce" calendar="gregorian">1946-1963<!-- 1946-1963 --></unitdate>
+      <unitid label="Identification:" countrycode="US" repositorycode="US-txham" encodinganalog="099">MS 217<!-- MS 217 --></unitid>
+      <physdesc label="Quantity:" encodinganalog="300$a"><extent>1.75 cubic feet </extent><extent>(3 boxes)<!-- 3 boxes --></extent></physdesc>
+      <repository label="Repository:" encodinganalog="852$a">
+        <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new"
+          xlink:actuate="onRequest" xlink:href="http://library.tmc.edu/mcgovern">
+          <corpname><subarea>John P. McGovern Historical Collections and Research Center<!-- Archive --></subarea>, Houston Academy of Medicine-Texas Medical Center Library<!-- Enter repository name, e.g. Library --></corpname>
+        </extref>
+      </repository>
+
+      <abstract label="Abstract:" encodinganalog="520$a"> The Lee D. Cady V.A. Photograph Collection documents the career of Lee D. Cady, MD as the first Manager (Director) of the Veterans Administration Hospital in Houston, Texas.  The photos document physical changes in the V.A. facilites, medical staff and personnel at the hospital, and notable visitors during 
+        Dr. Cady's tenure. The collection is 1.75 cubic feet (3 boxes).   The collection is in good condition.<!--Very brief summary of collection contents and biog./historical info. Use an abbreviated form of the Scope and Content note. At the end of the abstract include, a very brief description of the physical condition, the date range and the size fo the collection in cubic feet and boxes. required--></abstract>
+
+      <langmaterial label="Language:" encodinganalog="546$a">
+        <language langcode="eng" scriptcode="Latn">English</language>
+      </langmaterial>
+      <!--
+       Other language codes: 
+        <language langcode="spa" scriptcode="Latn">Spanish</language>
+        <language langcode="por" scriptcode="Latn">Portuguese</language>
+        <language langcode="fre" scriptcode="Latn">French</language>
+      -->
+    </did>
+    
+    <bioghist encodinganalog="545"><head>Biographical Note</head><!-- Or: Historical Note (for institutional collections) -->
+      <p> Lee D. Cady, MD (1896-1987) graduated Washington School of Medicine in 1922.  He served in both World War I and World War II. During World War II he served as the commanding officer of the 21st General Hospital in Northern Africa and Europe. Upon returning home after World War II, he assumed the role of director of the V.A. Hospitals in Dallas then Houston before his retirement from the Houston V.A. Hospital in 1963.  He is buried in Arlington National Cemetery.<!-- Enter biographical information about the individual(s) or the administrative history of a corporate body represented in the collection --></p>
+    </bioghist>
+    
+    <scopecontent encodinganalog="520$b">
+      <head>Scope and Contents Note</head>
+      <!-- Text in the <head> can be changed to the repositories preference -->
+      <p> The Lee D. Cady photograph collection (MS 217) is 1.75 cubic feet in size consisting of two boxes with one oversized box. The Lee D. Cady V.A. Photograph Collection documents the career of Lee D. Cady, MD as the first Manager (Director) of the Veterans Administration Hospital in Houston, Texas.  The photos document physical changes in the V.A. facilites, medical staff and personnel at the hospital, and notable visitors during 
+        Dr. Cady's tenure.The photographs were generally taken during Dr, Cady's tenure as director of the V.A. Hospital in Houston and include pictures of the V.A. Hospital and surrounding medical center, doctors, staff, and visitors to the hospital and awards and celebrations.  The collection is in good condition.<!-- Enter scope and content note; multiple paragraphs can be entered --></p>
+      <!-- Scope and Content note provides information about the nature o fhte materials and activities reflected in the unit being described so users can judge its relevance. Things to consider describing are: functions, activities, transactions and processes that created the materials; types of documeents, including minutes, diaries, reports, watercolors, etc.; geographic areas where the and places where the records pertain; subject matter, including topics, people and events; other relevant information to help the user access the value. At the end of note, include a note about the condition of the collection and the state of materials and finally that collection consists of xxxx cubit feet (xxxx boxes). Put the text of the scope and content note in paragraphs and separate each with paragraph tags.  required-->
+    </scopecontent>
+
+    <accessrestrict encodinganalog="506">
+      <head>Access Restrictions</head>
+      <p>Unrestricted. Material is open for research.<!-- Enter access restrictions if applicable; if no restrictions then enter "Unrestricted." --></p>
+    </accessrestrict>
+
+    <userestrict encodinganalog="540">
+      <head>Use Restrictions</head>
+      <p>Permission to publish from this material must be facilitated through the repository, McGovern Historical Center.<!-- Enter use restrictions if applicable --></p>
+    </userestrict>
+
+    <controlaccess>
+      <head>Index Terms</head>
+      <!-- Change the SOURCE attribute if applicable. See list of preferred authority sources in the TARO encoding guidelines -->
+      <controlaccess>
+        <head>Subjects (Persons)</head>
+        <persname source="lcnaf" encodinganalog="600">Cady, Lee D. <!-- Enter Library of Congress name authority --></persname>
+        <persname source="lcnaf" encodinganalog="600"><!-- Enter Library of Congress name authority --></persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects (Organizations)</head>
+        <corpname source="lcnaf" encodinganalog="610">Veterans Administration Hospital, Houston, Texas<!-- Enter Library of Congress corporate name authority --></corpname>
+        <corpname source="lcnaf" encodinganalog="610"><!-- Enter Library of Congress corporate name authority --></corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects</head>
+        <!-- Change the SOURCE attribute if applicable -->
+        <subject source="lcsh" encodinganalog="650">Medicine<!-- Enter Library of Congress subject heading --></subject>
+        <subject source="lcsh" encodinganalog="650"><!-- Enter Library of Congress subject heading --></subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Places</head>
+        <geogname source="lcsh" encodinganalog="651">Houston (Texas)<!-- Enter Library of Congress subject heading for places --></geogname>
+        <geogname source="lcsh" encodinganalog="651">Texas Medical Center<!-- Enter Library of Congress subject heading for places --></geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Document Types</head>
+        <!-- OR <head>Genres</head> -->
+        <genreform source="aat" encodinganalog="655"><!-- Enter genre form here --></genreform>
+        <genreform source="aat" encodinganalog="655">Photographs<!-- Enter genre form here --></genreform>
+      </controlaccess>
+      <controlaccess>
+        <head>Function</head>
+        <function source="aat" encodinganalog="656"><!-- Enter function --></function>
+        <function source="aat" encodinganalog="656"><!-- Enter function --></function>
+      </controlaccess>      
+      <controlaccess>
+        <head>Occupation</head>
+        <occupation source="aat" encodinganalog="657">Physician<!-- Enter occupation --></occupation>
+        <occupation source="aat" encodinganalog="657"><!-- Enter occupation --></occupation>
+      </controlaccess>
+       <controlaccess>
+         <head>Other Names</head><!-- 700 Added Entry-Personal Name used as an access point  -->
+        <persname source="lcnaf" encodinganalog="700"><!-- Enter Library of Congress name authority for added author --></persname>
+        <persname source="lcnaf" encodinganalog="700"><!-- Enter Library of Congress name authority for added author --></persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Corporate Names</head><!-- 710 Added Entry-Corporate Name used as an access point -->
+        <corpname source="lcnaf" encodinganalog="710"><!-- Enter Library of Congress corporate name authority --></corpname>
+        <corpname source="lcnaf" encodinganalog="710"><!-- Enter Library of Congress corporate name authority --></corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Titles</head><!-- 730  Added Entry-Uniform Title, A preferred title used as an access point. -->
+        <title source="lcnaf" encodinganalog="730"><!-- Enter Library of Congress authority title--></title>
+        <title source="lcnaf" encodinganalog="730"><!-- Enter Library of Congress authority title--></title>
+      </controlaccess>
+    </controlaccess>
+
+    <prefercite encodinganalog="524">
+      <head>Preferred Citation</head>
+      <p><!-- Edit preferred citation with collection Title and Number -->Lee D. Cady V.A. Photograph Collection; John P. McGovern Historical Collections and Research Center, Houston Academy of Medicine-Texas Medical Center Library.</p>
+        
+        <p>Please cite the box and folder numbers where appropriate.</p>
+    </prefercite>
+
+    <processinfo encodinganalog="583">
+      <head>Processing Information</head>
+      <p>The Collection was reviewed to establish or re-establish the order. Items were taken out of a larger collection (IC 098 TMC Library Historical Photograph Collection). To maintain consistency with the library catalog and IC 098 TMC Library Historical Photograph Collection, items were processed at the item level and grouped according to subject matter. Photographs remain in protective envelopes.<!-- Optional per repository policy; enter processing information if applicable --></p>
+    </processinfo>
+
+    <relatedmaterial encodinganalog="544">
+      <head>Related Material</head>
+      <p>IC 032 VA Hospital (Veteran's Administration) records; MS 026 Lee D. Cady, MD papers<!-- Enter information about related material/collections and the name of the holding-repository if applicable --></p>
+    </relatedmaterial>
+    
+    <accruals encodinganalog="584">
+      <head>Additions</head>
+      <p>No accurals are expected for this collection.<!-- Enter information about anticipated additions to the collection --></p>
+    </accruals>
+    <acqinfo>
+      <head>Acquisition Information</head>
+      <p> Lee D. Cady M.D. donated the photographs in 1981.</p>
+    </acqinfo>
+
+    <!-- Begin Description of Subordinate Components  -->
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+
+      <c01 id="ser1" level="series">
+        <!-- Enter appropriate LEVEL (e.g. "series" "file" or "item" -->
+        <did>
+          <unittitle>Series I: Pictures of the V.A. Hospital, Departments, Construction,and Plans <!-- Enter unit title --></unittitle>
+          <unitdate normal="1944/1999">1946-1963<!-- Enter unit date --></unitdate>
+        </did>
+        <scopecontent><p>This series contains photographs that document Dr. Cady's professional career as director of the Veterans Administration Hospital in Houston, Texas.</p></scopecontent>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">1</container><unittitle>P-3097 Transfer Ceremony of US Naval Hospital to V.A.</unittitle><unitdate normal="1949">1949</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">2</container><unittitle>N-3102 Tuberculosis Ward at V.A. Hospital</unittitle><unitdate normal="1951">1951</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">3</container><unittitle>P-3104 Remodeling of the V.A. Hospital</unittitle><unitdate normal="1961">1961</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">4</container><unittitle>P-3113 V.A. Hospital, Houston, Texas</unittitle><unitdate normal="1950">1950s</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">5</container><unittitle>P-3117 V.A. Hospital Director's House</unittitle><unitdate normal="1950">1950s</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">6</container><unittitle>P-3145 V.A. Hospital, Houston, Texas</unittitle><unitdate normal="1950">1950's</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">7</container><unittitle>P-3153 Planned Expansion of the V.A. Hospital</unittitle><unitdate normal="1959">1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">8</container><unittitle>P-3157 American Legion Gift Shop</unittitle><unitdate normal="1953">1953</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">9</container><unittitle>P-3169 V.A, Hospital Manager House</unittitle><unitdate normal="1960">1960</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">10</container><unittitle>P-3193 US Naval Hospital in Houston before transfer to the V.A.</unittitle><unitdate normal="1949">1949</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">11</container><unittitle>P-3095 LaGarde General Hospital and Surrounding Area</unittitle><unitdate normal="1946">1946</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">12</container><unittitle>P-3200 Construction at the V.A. Hospital</unittitle><unitdate normal="1951/1952">1951-1952</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">13</container><unittitle>P-3206 Transfer of the Quitclaim Deed, Land South of O.S.T. to V.A. Hospital</unittitle><unitdate normal="1958">1958</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">14</container><unittitle>P-3214 V.A. Hospital after Construction</unittitle><unitdate normal="1952">1952</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">15</container><unittitle>P-3264 V. A. Hospital </unittitle><unitdate normal="1952">1952</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">16</container><unittitle>P-3265 V. A. Hospital during Construction</unittitle><unitdate normal="1952">1952</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">17</container><unittitle>P-3266 V.A. Hospital</unittitle><unitdate normal="1950">1950s</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">18</container><unittitle>P-3267  V.A. Hospital</unittitle><unitdate normal="1963">1963</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">19</container><unittitle>P-3268 V.A. Hospital</unittitle><unitdate normal="1950">1950's</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">20</container><unittitle>P-3269 Texas Medical Center</unittitle><unitdate normal="1957">1957</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">21</container><unittitle>P-3270 Texas Medical Center</unittitle><unitdate normal="1949">1949</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">22</container><unittitle>P-3271 V.A. Hospital</unittitle><unitdate normal="1959">1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">23</container><unittitle>P-3272 V.A. Hospital</unittitle><unitdate normal="1959">1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">24</container><unittitle>P-3273 V.A. Hospital with Expansion Plans Drawn In</unittitle><unitdate normal="1963">1963</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">25</container><unittitle>P-3274 V.A. Hospital with expansion plans drawn in</unittitle><unitdate normal="1950">1950</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">26</container><unittitle>P-3275 V.A. Hospital</unittitle><unitdate normal="1956">1956</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">27</container><unittitle>P-3276 V.A. Hospital</unittitle><unitdate normal="1949">1949</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">28</container><unittitle>P-3277 V.A. Hospital</unittitle><unitdate normal="1949">1949</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">29</container><unittitle>P-3293 V.A. Hospital</unittitle><unitdate normal="1957">1957</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">30</container><unittitle>P-3244 Drone plane and participants in Operation Understanding at Fort Bliss</unittitle><unitdate normal="1953">1953</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">31</container><unittitle>P-3218 V.A. Hospital in Grand Isle, NE</unittitle><unitdate normal="1951">1951</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">32</container><unittitle>P-3305 Building 203 of Radioisotope Unit research lab and Medical Research Service at V.A. Hospital</unittitle><unitdate normal="1951">1951</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">33</container><unittitle>P-3306 Radioisotope Unit working with patients and monitors class in training</unittitle><unitdate normal="1951">1951</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">34</container><unittitle>P-3307 V.A. Hospital in Houston</unittitle><unitdate normal="1951">1951</unitdate></did> </c02>
+       
+        <!-- Add other component levels as appropriate -->
+      </c01>
+      <c01 id="ser2" level="series"> 
+        <!-- Enter appropriate LEVEL (e.g. "series" "file" or "item" -->
+        <did>
+          <unittitle>Series II: Veteran Administration Hospital Doctors and Staff <!-- Enter unit title --></unittitle>
+          <unitdate normal="1944/1999">1946-1963<!-- Enter unit date --></unitdate>
+        </did>
+        <scopecontent><p>This series contains photographs that document Dr. Cady's professional career as director of the Veterans Administration Hospital in Houston, Texas.</p></scopecontent>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">35</container><unittitle>P-3108 Mrs. Wise, Gray, Cady and Anderson visit Dietetic Services</unittitle><unitdate normal="1952">1952</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">36</container><unittitle>P-3110 Dr. Cady at V.A. Hospital</unittitle><unitdate normal="1952">1952</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">37</container><unittitle>P-3116 Internal Medicine Staff, V.A. Hospital, Houston TX</unittitle><unitdate normal="1954">1954</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">38</container><unittitle>P-3118 Max Wahlman and Robert Shatino</unittitle><unitdate normal="1961">1961</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">39</container><unittitle>P-3120 Arnold E. Mouish</unittitle><unitdate normal="1961">1961</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">40</container><unittitle>P-3119 Dr. Cady </unittitle><unitdate normal="1950/1959">1950-1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">41</container><unittitle>P-3144 J. Ralston Wells</unittitle><unitdate normal="1949">1949</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">42</container><unittitle>P-3143 Hugh Vickerstaff</unittitle><unitdate normal="1950/1959">1950-1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">43</container><unittitle>P-3146 Dr. Cady with Dr. Leake</unittitle><unitdate normal="1956">1956</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">44</container><unittitle>P-3147 Charles H. Beasley</unittitle><unitdate normal="1950/1959">1950-1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">45</container><unittitle>P-3148 William A. Middleton</unittitle><unitdate normal="1950/1959">1950-1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">46</container><unittitle>P-3150 Dr. Cady and A.W. Woolford at V.A. Hospital</unittitle><unitdate normal="1950">1950</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">47</container><unittitle>P-3155 Dr. Cady, Mr. Jaffrey, Mr. Dunn, Mr. Liles and Mr. Murphy, Crockett, TX</unittitle><unitdate normal="1949">1949</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">48</container><unittitle>P-3161 V.A. Staff in Western Clothes</unittitle><unitdate normal="1950/1959">1950-1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">49</container><unittitle>P-3163 Drs. Cady and Magnuson and Mr. Adkins, Miller, Andrews amd Barmett in Jackson, MS</unittitle><unitdate normal="1948">1948</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">50</container><unittitle>P-3166 Arnold E. Mouish</unittitle><unitdate normal="1950/1959">1950-1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">51</container><unittitle>P-3168 Dr. Cady and Dr. Cowdry at V.A. Hospital</unittitle><unitdate normal="1955">1955</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">52</container><unittitle>P-3171 Dr. Cady and proteges</unittitle><unitdate normal="1959">1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">53</container><unittitle> P-3173  V.A. Manager's Conference  in St. Louis</unittitle><unitdate normal="1950/1959">1950-1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">54</container><unittitle>P-3181 General Gray tours V.A. Hospital</unittitle><unitdate normal="1950/1959">1950-1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">55</container><unittitle>P-3195 Dr. Cady and Walter Rauft at American Legion Christmas Shop</unittitle><unitdate normal="1955">1955</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">56</container><unittitle>P-3205 Dr. Cady</unittitle><unitdate normal="1950/1959">1950-1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">57</container><unittitle>P-3210 Dr. Cady</unittitle><unitdate normal="1948">1948</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">58</container><unittitle>P-3211 Robert D. Blincow</unittitle><unitdate normal="1960">1960</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">59</container><unittitle>P-3217 Dr. Cady</unittitle><unitdate normal="1950/1959">1950-1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">60</container><unittitle>P-3236 Vice Admiral Joel T. Boone and General Gray at V.A. Hospital</unittitle><unitdate normal="1952">1952</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">61</container><unittitle>P-3240 Medical Services Residents at V.A. Hospital</unittitle><unitdate normal="1950">1950</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">62</container><unittitle>P-3242 Interns from</unittitle><unitdate normal="1950/1959">1950-1956</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">63</container><unittitle>P-3248 L. H. Gunther</unittitle><unitdate normal="1950/1959">1950-1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">64</container><unittitle>P-3249 Jim Cunningham</unittitle><unitdate normal="1950/1959">1950-1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">65</container><unittitle>P-3250 W. J. Dunn</unittitle><unitdate normal="1950/1959">1950-1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">66</container><unittitle>P-3251 J. Ralson Wells</unittitle><unitdate normal="1956">1956</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">67</container><unittitle>P-3252 Max Wahlman</unittitle><unitdate normal="1961">1961</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">68</container><unittitle>P-3253 C. A. Tosch</unittitle><unitdate normal="1956">1956</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">69</container><unittitle>P-3254 John J. Hayes</unittitle><unitdate normal="1950/1959">1950-1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">70</container><unittitle>P-3255 Clyde G. Cox</unittitle><unitdate normal="1950/1959">1950-1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">71</container><unittitle>P-3257 Carl Gray and Mr. Gleeson</unittitle><unitdate normal="1950/1959">1950-1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">72</container><unittitle>P-3258 Joel T. Boone</unittitle><unitdate normal="1950/1959">1950-1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">73</container><unittitle>P-3259 Paul R. Hawley</unittitle><unitdate normal="1950/1959">1950-1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">74</container><unittitle>P-3260 Paul B. Magnuson</unittitle><unitdate normal="1950/1959">1950-1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">75</container><unittitle>P-3261 Dr. Cady's rogues gallery</unittitle><unitdate normal="1950/1959">1950-1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">76</container><unittitle>P-3263 Medical Services at V.A. Hospital</unittitle><unitdate normal="1952">1952</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">77</container><unittitle>P-3279 Dr. Cady and Connie Boswell</unittitle><unitdate normal="1953">1953</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">78</container><unittitle>P-3292 Dr. Cady, General Gray and others at V.A. Hospital-Dallas</unittitle><unitdate normal="1948">1948</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">79</container><unittitle>P-3295 Dr. Cady and Cliff Swanson at V.A. Library</unittitle><unitdate normal="1961">1961</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">80</container><unittitle>P-3296 Dr. Cady</unittitle><unitdate normal="1952">1952</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">81</container><unittitle>P-3298 Dr. Cady</unittitle><unitdate normal="1959">1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">1</container><container type="Folder">82</container><unittitle>P-3300 Mr. Whittier's welcome to Houston</unittitle><unitdate normal="1959">1959</unitdate></did> </c02>
+        
+        
+        <!-- Add other component levels as appropriate -->
+      </c01>
+      <c01 id="ser3" level="series">
+        <!-- Enter appropriate LEVEL (e.g. "series" "file" or "item" -->
+        <did>
+          <unittitle>Series III: Veteran Administration Hospital Visitors, Dignitaries and Celebrities <!-- Enter unit title --></unittitle>
+          <unitdate normal="1950/1979">1946-1963<!-- Enter unit date --></unitdate>
+        </did>
+        <scopecontent><p> This series contains photographs that document Dr. Cady's professional career as director of the Veterans Administration Hospital in Houston, Texas..</p></scopecontent>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">1</container><unittitle>P-3107 General Gray at the train station</unittitle><unitdate normal="1950/1959">1950-1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">2</container><unittitle>P-3106 General Gray visiting V.A. Hospital</unittitle><unitdate normal="1952">1952</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">3</container><unittitle>P-3105 Major General P.R. Hawley</unittitle><unitdate normal="1950/1959">1950-1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">4</container><unittitle>P-3109 General Carl R. Gray</unittitle><unitdate normal="1948/1952">1948-1952</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">5</container><unittitle>P-3111 Major General Hawley receives plaque in Ft. Worth, TX</unittitle><unitdate normal="1947">1947</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">6</container><unittitle>p-3112Dr. Cady, Major General Paul Hawley and D.A. Miller</unittitle><unitdate normal="1947">1947</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">7</container><unittitle>P-3149 General Gray and Andy Anderson</unittitle><unitdate normal="1950/1959">1950-1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">8</container><unittitle>P-3154 President and Vice President of V.A. Auxilary signing Dr. Cady's log book</unittitle><unitdate normal="1962">1962</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">9</container><unittitle>P-3156Vice Admiral R.T. McIntire and Dr. Cady at U.S. Naval Hospital</unittitle><unitdate normal="1953">1953</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">10</container><unittitle>P-3159 Sen. Albert Thomas tour of V.A. Hospital</unittitle><unitdate normal="1953">1953</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">11</container><unittitle>P-3167 Edda the Mule entertaining V.A. Hospital patients</unittitle><unitdate normal="1950/1959">1950-1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">12</container><unittitle>P-3179 Dr. Cady, Margaret Zepernick, A.A. Prince and Grover Edge</unittitle><unitdate normal="1954">1954</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">13</container><unittitle>P-3180 Capt. Clyde W. Brunson and Dr. Cady at V.A. Hospital</unittitle><unitdate normal="1949">1949</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">14</container><unittitle>P-3182 Sen. Albert Thomas and Dr. Cady in front of new construction at V.A. Hospital</unittitle><unitdate normal="1950/1959">1950-1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">15</container><unittitle>P-3185 Dr. Cady with President of Jewish Veterans Auxiliary, Mrs. Gluckman</unittitle><unitdate normal="1950/1959">1950-1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">16</container><unittitle>P-3191 Dr. Cady with Esther Williams at V.A. Hospital</unittitle><unitdate normal="1952">1952</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">17</container><unittitle>P-3192 Dr. Cady with Mayor Roy Hofheinz and Mr. Hamilton</unittitle><unitdate normal="1953">1953</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">18</container><unittitle>P-3194 Mrs. Konze, Mrs Eyring and Dr. Cady</unittitle><unitdate normal="1952">1952</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">19</container><unittitle>P-3197 Dr. Cady, Joe Ramsey and Hymie Greenspan</unittitle><unitdate normal="1956">1956</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">20</container><unittitle>P-3216 Sen. Price Daniels visits V.A. Hospital</unittitle><unitdate normal="1956">1956</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">21</container><unittitle>P-3234 Houston Symphony performing at V.A. Hospital</unittitle><unitdate normal="1953">1953</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">22</container><unittitle>P-3243 General MacArthur's visit to V.A. Hospital</unittitle><unitdate normal="1951">1951</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">23</container><unittitle>N-3243 General MacArthur's visit to V.A. Hospital</unittitle><unitdate normal="1951">1951</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">24</container><unittitle>P-3256 John F. Kennedy and Dwight Eisenhower</unittitle><unitdate normal="1950/1959">1950-1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">25</container><unittitle>P-3281 Dorothy Shay performing at V.A. Hospital</unittitle><unitdate normal="1956">1956</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">26</container><unittitle>P-3282 General Omar Nelson Bradley</unittitle><unitdate normal="1946">1946</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">27</container><unittitle>P-3283 Leopold of Belgium and Princess Lilian visit V.A. Hospital</unittitle><unitdate normal="1960">1960</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">28</container><unittitle>P-3288 Dale Rogers visiting V.A. Hospital</unittitle><unitdate normal="1956">1956</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">29</container><unittitle>P-3294 Dr. Cady, General Gray and Colonel Lamphier</unittitle><unitdate normal="1950">1950</unitdate></did> </c02>
+        
+       
+        <!-- Add other component levels as appropriate -->
+      </c01>
+      <c01 id="ser4" level="series">
+        <!-- Enter appropriate LEVEL (e.g. "series" "file" or "item" -->
+        <did>
+          <unittitle>Series IV: V.A. Hospital Awards, Ceremonies and Conferences <!-- Enter unit title --></unittitle>
+          <unitdate normal="1944/1999">1946-1963<!-- Enter unit date --></unitdate>
+        </did>
+        <scopecontent><p>This series contains photographs that document Dr. Cady's professional career as director of the Veterans Administration Hospital in Houston, Texas.</p></scopecontent>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">30</container><unittitle>P-3304 First class of monitors to graduate from V.A. Hospital in Houston</unittitle><unitdate normal="1947">1947</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">31</container><unittitle>P-3303 Gifts to General Hawley at his retirement</unittitle><unitdate normal="1947">1947</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">32</container><unittitle>P-3299 Certificate of Safe Conduct, Secretary and Honorary Citizenship in TX</unittitle><unitdate normal="1950/1959">1950-1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">33</container><unittitle>P-3297 Dr. Cady and Martin Dies speaking at graduaton of the 2nd class of VAVS at V.A. Hospital</unittitle><unitdate normal="1950">1950</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">34</container><unittitle>P-3291 Dr. Cady presents certificates of appreciation to employees</unittitle><unitdate normal="1953">1953</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">35</container><unittitle>P-3290 Work Simplification Supervisors at V.A. Hospital</unittitle><unitdate normal="1950">1950</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">36</container><unittitle>P-3289 Cake presented by VFW at Christmas party</unittitle><unitdate normal="1962">1962</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">37</container><unittitle>P-3288 Fresh fruit and vegetables given by VFW, 18th District for a Christmas party</unittitle><unitdate normal="1962">1962</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">38</container><unittitle>P-3287 Dr. Cady at Physical Medicine and Rehabilitation  seminar party</unittitle><unitdate normal="1956">1956</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">39</container><unittitle>P-3286 Members of American Legion Auxiliary including Eve Ashton, National President</unittitle><unitdate></unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">40</container><unittitle>P-3284 Federal Employees lunch at TX Hospital Assoc. Convention</unittitle><unitdate normal="1951">1951</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">41</container><unittitle>P-3278 Dr. Cady receiving service awards</unittitle><unitdate normal="1950">1950</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">42</container><unittitle>P-3262 Chaplain Keathley's Retirement Dinner</unittitle><unitdate></unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">43</container><unittitle>P-3247 Service awards given to Dr. Cady</unittitle><unitdate></unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">44</container><unittitle>P-3246 V.A. Hospital Volunteer Day Ceremony</unittitle><unitdate normal="1950/1959">1950-1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">45</container><unittitle>P-3245 Patients Gift Shop Opening at Christmas</unittitle><unitdate normal="1950/1959">1950-1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">46</container><unittitle>P-3241 Reception for Dr. Musser</unittitle><unitdate normal="1959">1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">47</container><unittitle>P-3238 Patients Gift Shop and dedication of organ to the Tuberculosis Ward</unittitle><unitdate normal="1956">1956</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">48</container><unittitle>P-3237 President's Physician award given  to John Young at Rice Hotel</unittitle><unitdate normal="1964">1964</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">49</container><unittitle>P-3235 Dr Cady, General Gray, the Deans Committee, and Seniors of the V.A. Hospital</unittitle><unitdate normal="1951">1951</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">50</container><unittitle>P 3215 Dr. Cady presents awards to empoyees and volunteers</unittitle><unitdate normal="1950/1959">1950-1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">51</container><unittitle>P-3213 Presentation Ceremonies of the Americanism Award by D.A.R., Tejas Chapter to Dr. Halpert</unittitle><unitdate normal="1960">1960</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">52</container><unittitle>P-3212 Lee. D. Cady Day presentations</unittitle><unitdate normal="1954">1954</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">53</container><unittitle>P-3209 Final Ceremony for Field Economic Mobilization Course</unittitle><unitdate normal="1951">1951</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">54</container><unittitle>P-3208 Nurses at Director of Nursing Conference</unittitle><unitdate normal="1947">1947</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">55</container><unittitle>P-3207 Meat Cutters Graduation at V.A. Hospital Dallas</unittitle><unitdate normal="1948">1948</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">56</container><unittitle>P-3204 Dr. Cady reading retirement speech</unittitle><unitdate normal="1963">1963</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">57</container><unittitle>P-3203 V.A. Service Appreciation Dinner for Volunteers</unittitle><unitdate normal="1963">1963</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">58</container><unittitle>P-3202 Recognition Ceremonies for V.A. Hospital volunteers</unittitle><unitdate normal="1952">1952</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">59</container><unittitle>P-3201 Special events and parties at V.A. Hospital</unittitle><unitdate normal="1950/1959">1950-1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">60</container><unittitle>P-3199 Volunteer Appreciation Day at V.A. Hospital</unittitle><unitdate normal="1953">1953</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">61</container><unittitle>P-3198 Dr. and Mrs. Cady at Disabled American Veterans picnic</unittitle><unitdate normal="1951">1951</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">62</container><unittitle>P-3196 Day of Appreciation for stained glass window in V.A. Hospital</unittitle><unitdate normal="1955">1955</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">63</container><unittitle>P-3189 Dr. Cady and Dr. Blocker</unittitle><unitdate normal="1947">1947</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">64</container><unittitle>P-3190 V.A. Manager's Conference with President Eisenhower</unittitle><unitdate normal="1960">1960</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">65</container><unittitle>P-3186 American Legion Testimonial Dinner for Dr. Cady</unittitle><unitdate normal="1963">1963</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">66</container><unittitle>N-3186 American Legion Testimonial Dinner for Dr. Cady</unittitle><unitdate normal="1963">1963</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">67</container><unittitle>P-3188 Dr. Cady pinning 35 year service pin on Dr. Cochran</unittitle><unitdate normal="1959">1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">68</container><unittitle>P-3184 American College of Hospital Administrator's Banquet</unittitle><unitdate normal="1960">1960</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">69</container><unittitle>P-3183 Paul Smolensky of Gordon Jewelers donates Christmas Gifts</unittitle><unitdate normal="1958">1958</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">70</container><unittitle>P-3178 Physical Medicine and Rehab Seminar</unittitle><unitdate normal="1951">1951</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">71</container><unittitle>P-3170 Dr. William V. Hourson, Mark Edwin Andrews and General Huffy at Field Economics Course</unittitle><unitdate normal="1951">1951</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">72</container><unittitle>P-3099 V.A. Manager's Conference in St. Louis, MO</unittitle><unitdate normal="1960">1960</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">73</container><unittitle> P-3100  V.A. Manager's Conference  in St. Louis, MO</unittitle><unitdate normal="1959">1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">74</container><unittitle>P-3101  V.A. Manager's Conference in St. Louis, MO</unittitle><unitdate normal="1958">1958</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">75</container><unittitle>P-3098  V.A. Manager's Conference at White House with President Kennedy</unittitle><unitdate normal="1961">1961</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">76</container><unittitle>P-3174 Federal Employee Luncheon given by the TX Hospital Association</unittitle><unitdate normal="1955">1955</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">77</container><unittitle>P-3175 Dinner party at St. Louis Medical Area PMR Seminar</unittitle><unitdate normal="1956">1956</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">78</container><unittitle>P-3176 Dr. Cady receives check from War Veterans for TV</unittitle><unitdate normal="1953">1953</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">79</container><unittitle>P-3177 Fish and Game Annual Dinner for V.A. Patients</unittitle><unitdate normal="1949/1956">1949-1956</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">80</container><unittitle>P-3172 Dr. Cady presenting awards at AART-APMR Joint Conference in Houston</unittitle><unitdate normal="1962">1962</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">81</container><unittitle>P-3103 HR 7965 with pen used by President Eisenhower to sign legislation</unittitle><unitdate normal="1960">1960</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">82</container><unittitle>P-3165 Annual Volunteer Awards, V.A. Hospital, Atlanta, GE</unittitle><unitdate normal="1961">1961</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">83</container><unittitle>P-3164 Public Relations Reception</unittitle><unitdate normal="1958">1958</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">84</container><unittitle>P-3162 Banquet attended by Drs. Cady, Beasley, Olson, Middleton, Mr. Hankamer and Bishop C.S. Quinn</unittitle><unitdate normal="1959">1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">85</container><unittitle>P-3160 Presentation of Flag by Mannel Savage at Chapel Service</unittitle><unitdate normal="1960">1960</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">86</container><unittitle>P-3158 TV donated by Mrs. Carter to V.A. Hospital</unittitle><unitdate normal="1953">1953</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">87</container><unittitle>P-3152 Volunteers receiving Certificates of Commendation from Dr. Cady</unittitle><unitdate normal="1963">1963</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">88</container><unittitle>P-3151 Dr. Cady presents Hugh Vickerstaff with Federal Employee of the Year</unittitle><unitdate normal="1958">1958</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">89</container><unittitle>P-3115 Dr. Cady with Veterans of WWI, Inc.</unittitle><unitdate normal="1960">1960</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">90</container><unittitle>P-3114 Certificate and Award to Dr. Cady, President's Committee on Employment of Physically Handicapped</unittitle><unitdate normal="1961">1961</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">91</container><unittitle>P-3096 Dedication Ceremonies of Chapel, Radioisotope Lab, Medical Research Lab and General Gray</unittitle><unitdate normal="1946">1946</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">2</container><container type="Folder">92</container><unittitle>N-3096 Dedication Ceremonies</unittitle><unitdate normal="1946">1946</unitdate></did> </c02>
+      </c01>
+      <c01 id="ser5" level="series">
+        <!-- Enter appropriate LEVEL (e.g. "series" "file" or "item" -->
+        <did>
+          <unittitle>Series V: Oversize <!-- Enter unit title --></unittitle>
+          <unitdate normal="1944/1999">1949-1959<!-- Enter unit date --></unitdate>
+        </did>
+        <scopecontent><p>This series contains oversize photographs such as views of the V.A. Hospital, meeting and certificates that document Dr. Cady's professional career as director of the Veterans Administration Hospital in Houston, Texas.</p></scopecontent>
+        <c02 level="file"> <did> <container type="Box">OV 606</container><container type="Folder">P-3097</container><unittitle>Transfer of Naval Hospital to V.A.</unittitle><unitdate normal="1946">1949</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">OV 606</container><container type="Folder">P-3299</container><unittitle>Certificate of Safe Passage across Texas</unittitle><unitdate normal="1946">1951-1959</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">OV 606</container><container type="Folder">P-3275</container><unittitle>V.A. Hospital</unittitle><unitdate normal="1946">1950</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">OV 606</container><container type="Folder">P-3112</container><unittitle>Dr. Cady, Major General Paul Hawley and D.A. Miller</unittitle><unitdate normal="1946">1947</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">OV 606</container><container type="Folder">P-3113</container><unittitle>Views of the Naval Hospital</unittitle><unitdate normal="1946">1949</unitdate></did> </c02>
+        <c02 level="file"> <did> <container type="Box">OV 606</container><container type="Folder">P-3293</container><unittitle>Naval Hospital Fire Zones</unittitle><unitdate normal="1946">1949</unitdate></did> </c02>
+      </c01>       
+        
+        <!-- Add other component levels as appropriate -->
+
+    
+    </dsc>
+    <!-- End Description of Subordinate Components -->
+  </archdesc>
+</ead>
