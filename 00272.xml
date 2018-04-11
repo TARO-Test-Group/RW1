@@ -1,0 +1,2256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd" relatedencoding="MARC21">
+  <eadheader audience="internal" langencoding="iso639-2" encodinganalog="local choice">
+    <eadid mainagencycode="US-txdam" countrycode="US">urn:taro:smu.00272</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Octavio Medellin art work and papers</titleproper>
+        <subtitle>A Guide to the Collection</subtitle>
+        <author>Finding aid prepared by Ellen Buie Niewyk, 2015.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Hamon Arts Library</publisher>
+        <address>
+          <addressline>P. O. Box 750596</addressline>
+          <addressline>Southern Methodist University</addressline>
+          <addressline>Dallas, TX 75275-0356</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded by Ada Negraru,
+          <date>2015</date>.</creation>
+      <langusage>Finding aid written in <language langcode="eng">English.</language></langusage>
+      <descrules>Description based on <title xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="">DACS</title>.</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC 21">
+    <did>
+      <head>Overview</head>
+      <repository label="Repository" encodinganalog="852$a">
+        <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="http://www.smu.edu/cul/hamon/">
+          <corpname encodinganalog="852$a"><subarea>Jerry Bywaters Special Collections, Hamon Arts Library, </subarea>Southern Methodist University </corpname>
+        </extref>
+      </repository>
+      <origination label="Creator:" encodinganalog="100">
+        <persname>Medellin, Octavio, 1907 or 1908 – 1999</persname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245">Octavio Medellin art work and papers</unittitle>
+      <unitdate type="inclusive" label="Inclusive Dates:" encodinganalog="264$c" normal="1914/2015">circa 1914 – 2015</unitdate>
+      <physdesc label="Extent:" encodinganalog="300">1 artifact box, 6 archival boxes, 8 flat archival boxes, 1 archival newspaper storage box, 3 archival photo/slide boxes, 5 flat archival photo/slide boxes, 11 flat archival slide boxes, 3 metal shelves, 6 metal drawers, 5 matted photographs, 6 matted works of art on paper, 2 archival rolled storage tubes (Total extent: 81.087 linear feet)</physdesc>
+      <abstract label="Abstract:" encodinganalog="520">Octavio Medellin was an artist and teacher who was active in Texas from the 1920s until his death in 1999.  He is primarily known as a sculptor but also did work in ceramics, glass, and mosaics.  Born in Mexico, Medellin was heavily motivated by pre-Columbian art, mainly of Mayan origin, and he is associated with the Texas Regionalists movement of the 1930s and 1940s.  The collection reflects his distinguished art career and includes art work, clippings, correspondence, documents, ephemera, negatives/slides, photographs, publicity, published works, scrapbooks, and three-dimensional objects.</abstract>
+      <unitid countrycode="US" repositorycode="US-TxDaSMU" encodinganalog="099" label="Accession No:">
+        <?COLLECTION NUMBER?>
+      </unitid>
+      <langmaterial encodinganalog="546">Material is in <language langcode="eng">English</language> and <language langcode="spa">Spanish.</language></langmaterial>
+    </did>
+    <bioghist encodinganalog="545">
+      <head>Biographical Note</head>
+      <dao xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:actuate="onLoad" xlink:show="embed" xlink:title="Original Designs for the windows of the Trinity Lutheran Church of Dallas, Texas" xlink:href="http://digitalcollections.smu.edu/all/cul/images/taro/Original_Designs_for_the_windows_of_the_Trinity_Lutheran_Church_of_Dallas_Texas.jpg"/>
+      <p>
+        <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="http://digitalcollections.smu.edu/cdm/ref/collection/med/id/3977"> Original Designs for the windows of the Trinity Lutheran Church of Dallas, Texas </extref>
+      </p>
+      <p>Octavio Medellin was born in San Luis Potosi, Mexico in 1907 [or 1908] at a time when his country stood on the brink of a violent revolution.  His family, of Otomi Indian heritage, moved to San Antonio, Texas in 1920 where the young Medellin began his art studies at the San Antonio Art Institute with José Arpa and Xavier Gonzales, Spanish artists who had relocated to San Antonio and established flourishing art careers.  In 1928 Medellin left San Antonio and moved to Chicago where he studied at the Chicago Art Institute.  A year later he returned to Mexico to begin a two year study of his native country’s art, customs, and history – a period that proved to be a major influence in the young artist’s artistic evolution.   While in Mexico, he met and became friends with artist Carlos Mérida, a friendship that lasted until Mérida’s death in 1985.  Medellin traveled throughout the Gulf Coast, including the Yucatan, and studied the local crafts produced in small villages and the ancient ruins and sculpture of the Mayan and Toltec Indians.   Mexico’s unique artistic culture profoundly influenced Medellin’s art and that of the many students he taught over the next four decades.  </p>
+      <p>In 1931 Medellin moved back to San Antonio and taught sculpture at the Witte Museum and a few years later, with several other local artists, opened La Villita Art Gallery.  There he met Lucy Maverick, herself a young artist whose family was influential in the historic preservation of San Antonio during the late 19th/early 20th centuries.  In 1938, interested in encouraging Medellin’s art development, Maverick sponsored the artist’s journey to Mexico for a six-month study of the ruins at Chichén Itzá.  Medellin and his wife, Consuelo, and their two young children, Patsy and Sergio, traveled from New Orleans to Progreso, Yucatán, and toured other towns and historical sites, including Mérida and Uxmal.  The Medellins stayed in Pisté for three months as guests of the local residents but were later invited by Dr. Sylvanus Morley to stay at the Carnegie Institute research center, located next to the ruins at Chichén Itzá.  In 1913, Dr. Morley had been instrumental in initiating and directing the first Chichén Itzá project, funded by the Carnegie Institution of Washington, but excavations did not start until 1920s.  The Carnegie Institution continued to support excavations at the site until the 1940s.</p>
+      <p>Medellin made numerous sketches of the ruins in Mexico and, in addition, documented his travels with 181 black and white photographs that he compiled into a scrapbook entitled <emph render="italic">Maya – Toltec, Temples and Carvings, 1938</emph>.  His drawings of the first register of the bas-relief carvings in the Lower Temple of the Jaguars [or “Tigers”] at Chichén Itzá were later worked into the portfolio, <emph render="italic">XTOL – Dance of the Ancient Mayan People </emph>, published by the Dallas Museum of Fine Arts [DMFA], now known as the Dallas Museum of Art, in 1947.  Medellin dedicated the portfolio to Maverick.  Plans were made to make three additional portfolios using the remaining three registers of the bas-relief carvings, but lack of funds kept future publications from materializing.  Some of Medellin’s drawings were reproduced in the article “The Shower of the Road:  The Democratic Approach to Mayan Mysteries” by American writer and anthropologist Oliver La Farge [<emph render="italic">Town and Country</emph>, September 1942].  </p>
+      <p>Upon his return to the U.S., Medellin continued to teach while finding time to do his own work.  From 1938 – 1942, he taught at North Texas State Teachers College [now the University of North Texas] and, beginning in 1945, at the DMFA School - a teaching post he held for the next twenty-one years.  In the mid-1940s, Medellin was on the teaching staff at Southern Methodist University and, later in the 1960s, instructed art majors from the University in his studio at the Dallas Museum.   Throughout his career Medellin explored other media including ceramics, mosaics, glass, and lost-wax process in bronze casting, and introduced them to his students.  During the 1950s, Medellin designed and implemented major art projects in Dallas that included Temple Emanu-El and the Mercantile National Bank.  In 1966 he opened the Medellin School of Sculpture in Dallas [now the Creative Arts Center of Dallas] and continued to teach until semi-retirement in 1979 when he and Consuelo moved to Bandera, Texas.   Medellin’s work has been represented in exhibitions and museums including the Dallas Museum of Arts, the Huntington Art Gallery at the University of Texas in Austin, the Meadows Museum at Southern Methodist University, the Witte Museum in San Antonio, and the Museum of Modern Art in New York.  In 1977, he was awarded an honorary lifetime membership from the Texas Fine Arts Association, and in 1996 the Dallas Visual Arts Center, now the Dallas Contemporary, honored Medellin with the prestigious Legends Award.</p>
+      <p>Medellin died in Dallas, Texas in 1999; he was 91.  He is buried at Calvary Hill Cemetery close to his mosaic monument, <emph render="italic">The Garden of the Glorious Mysteries</emph>, designed and installed in 1962 – 1965.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <head>Scope and Contents of the Collection</head>
+      <p>The Octavio Medellin art work and papers collection consists of material that includes art work, clippings, correspondence, documents, ephemera, photographs and slides, publicity, and published works.  These reveal Medellin’s interest and study of pre-Columbian art, mainly at Chichén Itzá in Mexico, his designs for final art projects, and his involvement in his students’ work throughout his teaching career.  Work by other artists included in the collection reflect Medellin’s friendship with his contemporaries.  The clippings, photographs, publicity, and published works document his art career and museum exhibitions.&gt;</p>
+    </scopecontent>
+    <arrangement encodinganalog="351">
+      <head>Arrangement of the Collection</head>
+      <p>The collection is organized into eleven series:</p>
+      <list type="simple">
+        <item>Series 1: Art work:  circa 1927 - 1975
+                        <list><item>Sub-series 1:  Architectural/Design drawings:  undated</item><item>Sub-series 2:  Glasswork:	 1948</item><item>Sub-series 3:  Paintings, circa 1927 – 1930</item><item>Sub-series 4:  Print Blocks:  undated </item><item>Sub-series 5:  Sculpture:  circa1953</item><item>Sub-series 6:  Works of Art on Paper:  1938 – 1967</item><item>Sub-series 7:  Drawings [oversize]:  circa 1949</item></list></item>
+        <item>Series 2: Clippings:  1972 – 2015</item>
+        <item>Series 3: Correspondence:  1951 – 1995</item>
+        <item>Series 4: Documents:  1930 - 1996</item>
+        <item>Series 5: Ephemera:  circa 1972 – circa 1998</item>
+        <item>Series 6: Negatives/Slides:  circa 1914 – circa 1994
+                        <list><item>Sub-series 1:  Correspondence [Negatives of photographs attached to correspondence - cross-referenced to correspondence files]:  1987 - 19891987 - 1989</item><item>Sub-series 2:  Medellin, Family, Friends, Other Artists:  circa 1914 – 1980</item><item>Sub-series 3:  Medellin Sculpture:  1932 - 1994</item><item>Sub-series 4: Miscellaneous:  circa 1960s – circa 1990s</item><item>Sub-series 5:  Projects:  circa 1953 - 1989</item><item>Sub-series 6:  Flat Slide Boxes:  circa 1950s – 1980s</item></list></item>
+        <item>Series 7: Photographs:  circa 1914 - 1999
+                        <list><item>Sub-series 1:  Photographs attached to correspondence [cross-referenced to correspondence files]:  1978 - 1991</item><item>Sub-series 2:  Medellin, Family, Friends and Other Artists:  circa 1914 - 1999</item><item>Sub-series 3:  Medellin Sculpture:  1927 - 1994</item><item>Sub-series 4: Miscellaneous:  1938 - 1992</item><item>Sub-series 5:  Projects:  1953 - 1989</item></list></item>
+        <item>Series 8: Publicity:  1941 - 1996</item>
+        <item>Series 9: Published Works:  1943 - 1997</item>
+        <item>Series 10: Scrapbooks:  1938 - 1996</item>
+        <item>Series 11: Three-Dimensional Objects:  1977</item>
+      </list>
+    </arrangement>
+    <relatedmaterial encodinganalog="500">
+      <head>Related Materials</head>
+      <p>
+        <emph render="bold">Collections:</emph>
+      </p>
+      <p>Collection on Rabbi Levi A. Olan, Bridwell Library, Perkins School of Theology, Southern Methodist University   - <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="http://legacy.lib.utexas.edu/taro/smu/00172/smu-00172.html"> http://legacy.lib.utexas.edu/taro/smu/00172/smu-00172.html</extref></p>
+      <p>Octavio Medellin papers, 1932-1979, Smithsonian, Archives of American Art - <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="http://www.aaa.si.edu/collections/octavio-medellin-papers-5503">http://www.aaa.si.edu/collections/octavio-medellin-papers-5503 </extref> and  <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="http://s.si.edu/1KzJNWo">http://s.si.edu/1KzJNWo</extref></p>
+      <p>Evaline Sellors art work and papers, Bywaters Special Collections, Southern Methodist University  - <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="http://legacy.lib.utexas.edu/taro/smu/00284/smu-00284.html"> http://legacy.lib.utexas.edu/taro/smu/00284/smu-00284.html</extref></p>
+      <p>Evaline Sellors papers, Old Jail Art Center, Albany, Texas - <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="http://legacy.lib.utexas.edu/taro/ojac/00003/ojac-00003.html">http://legacy.lib.utexas.edu/taro/ojac/00003/ojac-00003.html</extref></p>
+      <p>Octavio Medellin Papers, Syracuse University - <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="http://library.syr.edu/digital/guides/m/medellin_o.htm">http://library.syr.edu/digital/guides/m/medellin_o.htm</extref></p>
+      <p>
+        <emph render="bold">SMU Digital Collections:</emph>
+      </p>
+      <p><emph render="italic">Maya-Toltec Temples and Carvings, 1938 </emph> [photo scrapbook]: <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="http://digitalcollections.smu.edu/cdm/search/collection/med/searchterm/OM.2001.1/mode/exact">http://digitalcollections.smu.edu/cdm/search/collection/med/searchterm/OM.2001.1/mode/exact</extref></p>
+      <p><emph render="italic">Octavio Medellin Art Work and Papers </emph>: <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="http://digitalcollections.smu.edu/all/cul/med/">http://digitalcollections.smu.edu/all/cul/med/</extref></p>
+      <p><emph render="italic">XTOL:  Dance of the Ancient Mayan People</emph>, 1947: <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="http://digitalcollections.smu.edu/cdm/search/collection/med/searchterm/Xtol:%20Dance%20of%20the%20Ancient%20Mayan%20People/mode/exact">http://digitalcollections.smu.edu/cdm/search/collection/med/searchterm/Xtol:%20Dance%20of%20the%20Ancient%20Mayan%20People/mode/exact</extref></p>
+      <p>
+        <emph render="bold">Published Works:</emph>
+      </p>
+      <p>Sixty-nine books were removed from the collection and cataloged. They can be found in the SMU online catalog using the search string, “Part of Octavio Medellin Collection.”</p>
+    </relatedmaterial>
+    <accessrestrict encodinganalog="506">
+      <head>Access to Collection:</head>
+      <p>Collection is open for research use. Appointment with curatorial staff at Hamon Library is required.</p>
+    </accessrestrict>
+    <userestrict encodinganalog="540">
+      <head>Publication Rights:</head>
+      <p>Permission to publish materials must be obtained from the staff of Jerry Bywaters Special Collections.</p>
+    </userestrict>
+    <userestrict encodinganalog="540">
+      <head>Copyright Statement:</head>
+      <p>It is the responsibility of the user to obtain copyright authorization.</p>
+    </userestrict>
+    <controlaccess>
+      <head>Access Terms</head>
+      <p>This collection is indexed under the following terms in the Southern Methodist University Libraries' online catalog. Researchers desiring related materials may search the catalog using these terms.</p>
+      <controlaccess>
+        <persname source="lcsh" encodinganalog="600">Medellin, Octavio, 1907 or 1908-1999.&gt;</persname>
+        <subject source="lcsh" encodinganalog="650">Sculptors -- Mexico.</subject>
+        <subject source="lcsh" encodinganalog="650">Artists -- Texas -- Dallas.</subject>
+        <genreform source="gmgpc" encodinganalog="655">Works of art.</genreform>
+        <genreform source="gmgpc" encodinganalog="655">Photographs.</genreform>
+        <genreform source="gmgpc" encodinganalog="655">Slides.</genreform>
+        <genreform source="gmgpc" encodinganalog="655">Letters.</genreform>
+      </controlaccess>
+    </controlaccess>
+    <prefercite encodinganalog="524">
+      <head>Preferred Citation</head>
+      <p>Octavio Medellin art work and papers, Jerry Bywaters Special Collections, Hamon Arts Library, Southern Methodist University.</p>
+    </prefercite>
+    <acqinfo encodinganalog="541">
+      <head>Acquisition Information</head>
+      <p>Gifts, Mr. Octavio Medellin, 1989, 1994 [March, May, December], 1996, 1997, 1998; Mr. Jan Boles, 1998; Estate of Octavio Medellin, 2001 [March, September]; Mrs. Patricia Medellin McDonald, 2011, 2012; Estate of Cecilia Steinfeldt, 2013; Henry and Maxine Zaleta, 2013, the Ratcliffe Family, 2015</p>
+    </acqinfo>
+    <processinfo encodinganalog="583">
+      <head>Processing Information</head>
+      <p>The Octavio Medellin art work and papers were donated in 15 parts beginning in 1989.  The contents of each gift were divided into separate archival files and boxes for clippings, correspondence, documents, photographs, publicity, and published works.  Negatives, photographs, and slides are housed in separate archival boxes.  Five photographs are matted and placed in flat museum cases. Art work is placed in flat archival boxes or flat metal drawers; conservation has been completed on several items.  The newspaper articles are copied onto acid-free paper; articles published in 2015 are de-acidified and encapsulated with mylar.  Scrapbooks are housed in archival boxes or metal shelves.  Effort was made to keep files organized as originally identified and arranged by the artist [original folder titles are noted in quotation marks].</p>
+    </processinfo>
+    <processinfo encodinganalog="583">
+      <head>Processed by</head>
+      <p>Records were processed, beginning in 1994, by Leslie Sookma [Rortvedt] and completed in 2015 by Ellen Buie Niewyk.</p>
+    </processinfo>
+    <processinfo encodinganalog="583">
+      <head>Finding aid written by</head>
+      <p>Ellen Buie Niewyk, 2015.</p>
+    </processinfo>
+    <processinfo encodinganalog="583">
+      <head>Encoded by</head>
+      <p>Ada Negraru, 2015.</p>
+    </processinfo>
+    <dsc type="combined">
+      <head>Detailed Description of the Collection</head>
+      <c01 level="series" id="series1">
+        <did>
+          <unittitle>Series 1: Art work: circa 1927 – 1975</unittitle>
+          <physdesc/>
+        </did>
+        <scopecontent>
+          <p>The art work contains Medellin’s glass experiments, prints, print blocks, and preliminary drawings for final projects, and paintings by Medellin and his contemporaries.  Architectural blueprints and designs are for potential art projects; some designs are for equipment used in Medellin’s studio.  The art work consists of 6 blueprints, 11 colored pencil drawings, 3 glass experiments, 6 intaglios, 2 linoleum block prints, 3 oil-base crayon drawings, 3 oil on canvas paintings, 11 pencil drawings, 3 photo cut-outs [and pencil] designs, 7 print blocks, 2 sculptures, and 1 watercolor painting.</p>
+          <p>The artists represented in the Medellin Collection include Lawson Blackmon, Fred Darge, Richard A. Florsheim, Lucy Maverick, Octavio Medellin, Enrique de la Mora y Palomar, Evaline Sellors, and Pedro Teran.</p>
+        </scopecontent>
+        <c02>
+          <did>
+            <unittitle>
+              <emph render="bold">Sub-series 1:  Architectural/Design drawings:  undated</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Box 1</container>
+            <unittitle>Designer/artist unknown, blueprint for plaster slab clay table, 17 ¼” x 11 	3/16” [paper], undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Box 1</container>
+            <unittitle>Designer/artist unknown, blueprint for gas fired crucible furnace and crucible, 17 1/16” x 21 15/16” [paper], undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Box 1</container>
+            <unittitle>Designer/artist unknown, blueprint for fired crucible furnace and crucible tongs, 18 12/16” x 23 7/16” [paper], undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Box 1</container>
+            <unittitle>Designer/artist unknown, pencil drawing of foundry and equipment, 17 ¼” x 23 7/16” [paper], undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Box 1</container>
+            <unittitle>Designer/artist unknown, pencil drawing of gas-fired crucible furnace, includes images of crucible tongs and shake-out tongs, 17 1/8” x 23 3/16” [paper], undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Box 1</container>
+            <unittitle>Designer/artist unknown, blueprint for gas-fired crucible furnace, includes images of crucible tongs and shake-out tongs, 17” x 21 7/8” [paper], undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Box 1</container>
+            <unittitle>Blueprint, Capilla Para El Colegio Mexico En S. L. P., Enrique de la Mora y Palomar [architect], 23 ¾” x 17 13/16” [paper], undated.  Note originally attached to blueprint:  “Blueprint to do study for proposed glass, surround the entire chapel, San Luis Potosi, Mexico”	</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Box 1</container>
+            <unittitle>Blueprint, Capilla Para El Colegio Mexico En S. L. P., Enrique de la Mora y Palomar [architect], 23 7/8” x 35 ½” [paper], undated.  “Note originally attached to blueprint:  Blueprint to do study of proposed glass, surrounding the entire chapel, San Luis Potosi, Mexico”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>
+              <emph render="bold">Sub-series 2:  Glasswork:	 1948</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Shelf">Metal shelf, “Medellin”</container>
+            <unittitle>Medellin, Octavio, wood box labeled “First Glass Experiments,” contains three fused glass samples, each glass piece is irregular in shape, 20 ½” x 7” x 1 ¾” [dimensions of wood box], 1948</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>
+              <emph render="bold">Sub-series 3:  Paintings:  circa 1927 – 1930 </emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>The paintings are oil on canvas without frames or support</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Drawer">Flat Metal File Drawer “Medellin” - 1</container>
+            <unittitle>Darge, Fred, untitled [image of Octavio Medellin working on sculpture entitled <emph render="italic">Spirit of Revolution</emph>], oil on canvas [flat, without support], 12 5/8” x 15” [overall], 11 15/16” x 13 15/16” [image], undated </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Drawer">Flat Metal File Drawer “Medellin” - 1</container>
+            <unittitle>Medellin, Octavio, untitled [image of a young woman], oil on canvas [flat, without support], 24” x 19 ½” [overall], 23 ½” x 17 ¾” [image], circa 1927 – 1930.  Note originally attached to painting:  “One of my oil paintings of my work in 1927 – 1930, before I took up sculpture only.  The subject is Cecilia Neuheisel before she became Mrs. Eric Steinfeldt, now Senior Curator of Art, San Antonio Museum of Art, San Antonio, Texas”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Drawer">Flat Metal File Drawer “Medellin” - 2</container>
+            <unittitle>Medellin, Octavio, untitled [image of a young man], oil on canvas [flat, without support], 25” x 19 ½” [overall], 24 ½” x 19 ½” [image], circa 1927 – 1930.  Note originally attached to painting:  “One of my oil paintings of my work in 1927 – 1930, before I took sculpture.  The subject may be [Gregorio] Prestopino, the painter, during the time he was in San Antonio, Texas”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>
+              <emph render="bold">Sub-series 4:  Print Blocks:  undated</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Shelf">Metal shelf – “Medellin”</container>
+            <unittitle>Medellin, Octavio, linoleum on wood, untitled [design of pre-Columbian figure], 11 ½” x 8 5/8” x 7/8” [overall], undated [print image located in Museum Case A-VII]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Shelf">Metal shelf – “Medellin”</container>
+            <unittitle>Medellin, Octavio, six linoleum on wood blocks, untitled [image of hummingbird], each block measures 4 ¼” x 5 ½” x 7/8”, undated [print image located in Museum Case A-VII]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>
+              <emph render="bold">Sub-series 5:  Sculpture:  circa 1953</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Room">Research Room </container>
+            <unittitle>Sellors, Evaline, bust of Octavio Medellin [mounted on wood base]; fired clay, 14” x 7” x 9 ½” [wood base, 7 ¼” x 5 ¾” x 1 ¾”], undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Artifact Box 1</container>
+            <unittitle>Medellin, Octavio, plaster cast of Paul Van Katwijk’s hand, 9 ¼” x 6” x 3” [overall], circa 1953</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>
+              <emph render="bold">Sub-series 6:  Works of Art on Paper:  1938 - 1967</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>The following contains works by Richard A. Florsheim, Lucy Maverick, Octavio Medellin, and Pedro Teran.  Florsheim is known for his lithographs made during the 1940s and 1950s; he lived in Chicago, Illinois, and Provincetown, Massachusetts.  Maverick was an artist and an advocate of the arts in San Antonio, Texas.  She was also interested in pre-Columbian art and in 1938 supported Octavio Medellins’s studies in Mexico. Teran, a native of San Antonio, painted the murals in the city’s Alameda Theatre during the late 1940s; the murals depict the history of Texas and Mexico.  Dimensions listed are height by width.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Box 1</container>
+            <unittitle>Medellin, Octavio, untitled [mosaic design with image of Christ on cross; design of three candlestick holders in lower left corner], St. Paul the Apostle Catholic Church, Richardson, Texas, colored pencil on paper, 26” x 10 7/16” [paper], 1961. Note originally attached to drawing:  “Color for suspended mosaic, St. Paul the Apostle, Richardson, Texas”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Box 1</container>
+            <unittitle>Medellin, Octavio, untitled [design of colored squares spaced throughout the image], colored pencil on paper, 35 5/8” x 15 15/16” [paper], circa 1963.  Note originally attached to drawing:  Glass for living room wall, residence for Mr. and Mrs. [Theo] Hochstim”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Box 1</container>
+            <unittitle>Medellin, Octavio, untitled [stained glass design], colored pencil on paper, 32 1/8” x 16 1/16” [paper], 26 1/14” x 7” [image], circa 1960.  Note originally attached to drawing:  “Color scheme for solar screen, 9 ft. x 35 ft., Campanile of the Trinity Lutheran Church, Dallas, Texas”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Box 1</container>
+            <unittitle>Medellin, Octavio, <emph render="italic">The Resurrection, Garden of the Glorious Mysteries</emph>, colored pencil on paper, 36” x 23 11/16” [paper], 29 7/8” x 14 ½” [image], circa 1962 – 1965.  Note originally attached to drawing:  “Study and color scheme, for Calvary Hill Cemetery mosaic pylons, The Resurrection, Garden of the Glorious Mysteries”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Box 1</container>
+            <unittitle>Medellin, Octavio, untitled [image of individuals participating in basketball, swimming and gymnastics], colored pencil on paper, 18 ¼” x 35 ½” [paper], 11 ¾” x 26 3/8” [image], undated.  Note originally attached to drawing:  “Color scheme for proposed mosaic mural, Jaycee Park Recreation Building, City of Dallas, Texas”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Box 2</container>
+            <unittitle>Note written by Medellin for works of art on paper by Lucy Maverick:  “All of this work is by Lucy Maverick, some are signed, others unsigned.  They are pencil drawings of my work; others are creations of her own.  They were a gift from her to me.”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Box 2</container>
+            <unittitle>Medellin, Octavio, untitled [image of three crosses/crucifixes among branches with leaves], pencil on paper, 13 7/16” x 21 7/8” [paper], circa 1956.  Written on front, lower right corner:  “Proposed design on front glass vestibule for Prince of Peace Lutheran Church, Austin, Texas.  Eugene Wukasch Architect, Octavio Medellin S. C.”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Box 2</container>
+            <unittitle>Maverick, Lucy, untitled [image of a sculpture of a female torso on a pedestal], pencil on paper, 23 7/8” x 18” [paper], undated  </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Box 2</container>
+            <unittitle>Maverick, Lucy, untitled [image of two of Medellin’s wood carvings on pedestals], pencil on paper, 25” x 18 15/16” [paper], undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Box 2</container>
+            <unittitle>Maverick, Lucy, untitled [image of a garden scene with a sculpture of a figure in the foreground], pencil on paper, 22 1/8” x 11 ¼” [paper], undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Drawer">Flat Metal File Drawer “Medellin” -2</container>
+            <unittitle>Maverick, Lucy, untitled [image of a king and queen from a playing card and a brown bottle holding green leaves], oil-base crayon on paper, 17 12/16” x 24” [paper], undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Drawer">Flat Metal File Drawer “Medellin” -3</container>
+            <unittitle>Maverick, Lucy, untitled [abstract design in colors of blue, orange, and green; another unfinished drawing is on reverse], oil-base crayon on paper, 14 7/8” x 21 ½” [paper], undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Drawer">Flat Metal File Drawer “Medellin” -3</container>
+            <unittitle>Maverick, Lucy, <emph render="italic">The Pomegranite</emph> [sic] <emph render="italic">Flower </emph>, oil-base crayon on paper, 18” x 17 7/8” [paper], undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Drawer">Flat Metal File Drawer “Medellin” -3</container>
+            <unittitle>Maverick, Lucy, untitled [image of a man playing a guitar], oil-base crayon on paper, 21 13/16” x 15” [paper], undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Drawer">Flat Metal File Drawer “Medellin” -4</container>
+            <unittitle>Medellin, Octavio, untitled, colored pencil on paper, 42” x 20” [paper], circa 	1960.  Inscription along left edge of paper:  “To Henry &#x0026; Mrs. Zaleta – 1967 – original designs for the windows of the Trinity Lutheran Church at Dallas, Texas. Octavio Medellin”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Drawer">Flat Metal File Drawer “Medellin” -5</container>
+            <unittitle>The following items are Medellin’s preliminary designs for the glass inserts attached to the mosaics designed by Millard Sheets for the Mercantile National Bank in Dallas, Texas. </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Drawer">Flat Metal File Drawer “Medellin” -5</container>
+            <unittitle>Medellin, Octavio, untitled, color photograph cutout mounted on board and colored pencil on paper, 11 1/4” x 22” [paper], circa 1957.  Written on board:  “Preliminary idea for glass design.  Mercantile National Bank, Dallas, Texas” and “Preliminary idea for design for glass.  Mercantile National Bank, Dallas, Texas”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Drawer">Flat Metal File Drawer “Medellin” -5</container>
+            <unittitle>Medellin, Octavio, untitled, color photograph cutout mounted on board and colored pencil on paper, 7 ¾” x 22” [paper], circa 1957.  Written on board:  “Preliminary idea for glass design – Mercantile National Bank, Dallas, Texas” and “Preliminary idea for design for glass.  Mercantile National Bank, Dallas, Texas”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Drawer">Flat Metal File Drawer “Medellin” -5</container>
+            <unittitle>Medellin, Octavio, untitled, color photograph cutout mounted on board and colored pencil on paper, 8 7/8” x 22” [paper], circa 1957.  Written on board:  “Preliminary idea for glass design – Mercantile National Bank, Dallas, Texas”.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>The following sketches created by Medellin are baptismal fonts and glass designs for churches.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Drawer">Flat Metal File Drawer “Medellin” -5</container>
+            <unittitle>Medellin, Octavio, untitled, pencil on paper mounted on board, 8 7/16” x 16 ½” [image], 12” x 20” [paper], 1945.  Paper label on board:  “Proposed drawings for relief, details for baptismal font for Saint Andrew Episcopal church, Grand Prairie, Texas, 1945”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Drawer">Flat Metal File Drawer “Medellin” -5</container>
+            <unittitle>Medellin, Octavio, untitled, pencil on paper mounted on board, 8 5/8” x 16 ½” [image], 12” x 20” [paper], pencil on paper mounted on board, 8 5/8” x 16 ½”, undated.  Note originally attached to back of board:  “Study reliefs.  Baptismal font St. Henrys Episcopal church [not produced]”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Drawer">Flat Metal File Drawer “Medellin” -5</container>
+            <unittitle>Medellin, Octavio, untitled, pencil on paper mounted on board, 8 ¾” x 16 5/8” [image], 12” x 20” [paper], circa 1956.  Note originally attached to back of board:  “Study for sandblasted glass for Prince of Peace Lutheran church, Austin, Texas”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Drawer">Flat Metal File Drawer “Medellin” -5</container>
+            <unittitle>Medellin, Octavio, untitled, pencil on paper mounted on board, 8 3/8” x 16 ¼” [image], 12” x 20” [paper], 1948.  Note originally attached to back of board:  “Preliminary study for low relief carving on side of baptismal font, 1948”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Drawer">Flat Metal File Drawer “Medellin” -6</container>
+            <unittitle>Medellin, Octavio, untitled [image of designs for stained glass windows, candlesticks, and baptismal], colored pencil on paper, 32 1/2“ x 40” [paper], 25” x 36” [image], undated. Note originally attached to drawing:  “Proposed design for candlesticks and baptismal font only.  Glass window was already in existence, McKinney, Texas”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Drawer">Flat Metal File Drawer “Medellin” -6</container>
+            <unittitle>Medellin, Octavio, untitled [mosaic design with figure], colored pencil on paper, 33 ¾” x 27 7/8” [paper], 28 3/8” x 21 11/16” [image], 1961.  Note originally attached to drawing:  “Proposed design for mosaic mural, St. Paul the Apostle, Richardson, Texas, 1961”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Drawer">Flat Metal File Drawer “Medellin” -6</container>
+            <unittitle>Medellin, Octavio, untitled [designs for procession cross and candlesticks], colored pencil on paper, 33 ½” x 28 ¾” [paper], 30 1/8” x 20 ¾” [image], undated.  Note originally attached to drawing:  “Study of Christus Rex, procession cross, and candlesticks for retreat center chapel, Grapevine, Texas”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Drawer">Flat Metal File Drawer “Medellin” -6</container>
+            <unittitle>Medellin, Octavio, untitled [design of geometric shapes for stained glass window], colored pencil on paper, 34” x 40 7/8” [paper], 31 ½” x 36” [image], 1961.  Note originally attached to drawing:  “Glass for priest chapel wall, Bishop Lynch High School, Dallas, Texas”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Box 3</container>
+            <unittitle>Florsheim, Richard, Masts, intaglio, 13 7/8” x 9 7/8” [paper], 13 7/8” x 9 7/8” [image], undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Box 3</container>
+            <unittitle>Teran, Pedro, <emph render="italic">Apotheosis #2</emph>, intaglio, 13 7/8” x 4 3/8”, edition 7/30, 1957</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Box 3</container>
+            <unittitle>Teran, Pedro, <emph render="italic">Star Angel</emph>, intaglio, 11 15/16” x 10 ¼” [paper], 8 13/16” x 7 5/16” [image], 1952</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Box 3</container>
+            <unittitle>Teran, Pedro, <emph render="italic">The Quill Pen</emph>, intaglio, 8 5/8” x 9 11/16” [paper], 6 7/8” x 8 ¾” [image], second state, edition 2/30, 1954</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Box 3</container>
+            <unittitle>Teran, Pedro, <emph render="italic">Toward the New Year</emph>, intaglio, edition 3/30, 6 3/8” x 15 15/16” [paper], 4 3/8” x 13 7/8” [image], 1953</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Box 3</container>
+            <unittitle>Teran, Pedro, <emph render="italic">Death and Transfiguration</emph>, intaglio, edition 6/30, 17” x 13” [paper], 9 ¾” x 7 ¾” [image], 1946</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Case">Museum Case A-VII</container>
+            <unittitle>Medellin, Octavio, untitled [image of pre-Columbian figure], block print, 15 13/16” x 11 ¾” [paper], 11 ½” x 8 9/16” [image], circa 1938.  Information from original mat:  “From murals at the Temple of the Tigers, Chichén Itzá, Yucatan”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Case">Museum Case A-VII</container>
+            <unittitle>Medellin, Octavio, untitled [image of a hummingbird], six color block print,9 9/16” x 8 11/16” [paper], 4 5/16” x 5 9/16” [image], 1975.  Image is from 	Medellin’s studies at Chichén Itzá in 1938.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Case">Museum Case A-XIII</container>
+            <unittitle>Blackmon, Lawson, <emph render="italic">Octavio Working</emph>, watercolor on paper, 15” x 9 7/8” [paper], 1939</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Case">Museum Case C-III</container>
+            <unittitle>Neuheisel [Steinfeldt], Cecilia, <emph render="italic">Octavio Medellin at Work, Villita Art Gallery</emph>, pencil on paper, 16 7/8” x 13 7/8” [paper], 1938 [?]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>
+              <emph render="bold">Sub-series 7:  Drawings [oversize]:  circa 1949</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Tube">Roll Storage Tube 1</container>
+            <unittitle>Medellin, Octavio, <emph render="italic">History of Mexico</emph>, pencil on paper, 86 ½” x 42” [paper], circa 1949</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Tube">Roll Storage Tube 2</container>
+            <unittitle>Medellin, Octavio, untitled [image of Virgin Mary], colored pencil on paper, 46 5/16” x 25 ½” [paper], 45 5/8” x 15 ¼” [image], undated.  Note originally attached to drawing:  “color design for glass windows, main wall of the sanctuary, Kennedy Memorial Chapel, University of Texas at Austin, Texas.”  [note:  the glass window is currently located at the University Catholic Center, UT Austin]</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="series2">
+        <did>
+    
+          <unittitle>Series 2: Clippings:  1972 - 2015</unittitle>
+          <physdesc/>
+        </did>
+        <scopecontent>
+          <p>This series contains sixty-two articles from various newspapers documenting Medellin’s art
+             career. 
+         </p>
+        </scopecontent>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>General - undated, 1970s </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">2</container>
+            <unittitle>General -1980s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">3</container>
+            <unittitle>General - 1990s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">4</container>
+            <unittitle>1990s – Press Coverage of <emph render="italic">The Figure in American Sculpture:  A 	Question of Modernity</emph>, organized by the Los Angeles County 	Museum of Art, 1995 - 1996</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">5</container>
+            <unittitle>2015 – “Church Windows by artist Octavio Medellin saved from 	Demolition” by Dianne Solis, <emph render="italic">Dallas Morning News</emph>, April 6, 2015 	[computer print-out copies]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Bywaters – Original Newspaper Box 2</container>
+            <unittitle>“Saving a Touch of Glass” by Dianne Solis, <emph render="italic">Dallas Morning News</emph>, April 7, 2015</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="series3">
+        <did>
+        
+          <unittitle>Series 3: Correspondence:  1951 - 1995</unittitle>
+          <physdesc/>
+        </did>
+        <scopecontent>
+          <p>The correspondence files contains 923 letters relating to Medellin’s art career, colleagues and 
+             professional contacts, commission works, and museum and gallery exhibitions. Included in the 
+             correspondence are letters from the Creative Art Center of Dallas, Marie [Mitzi] Watts [Medellin’s art 
+             representative], Saint Andrews Episcopal Church [Grand Prairie, Texas], and Temple Emanu-el 
+             [Dallas].  Correspondence with professional associates includes David Hickman [Dallas artist] and 
+             Marty Ray [North Lake College, Irving, Texas].  Additional correspondence files contain letters 
+             between Medellin and museum directors and staff regarding his work in exhibitions at the Bronx 
+             Museum of Art, New York [<emph render="italic">The Latin American Spirit: Art and Artists in the United States, 1920 –
+                 1970</emph>], Dallas Museum of Art [<emph render="italic">Lone Star Regionalism</emph>] Huntington Art Gallery, University of Texas at 
+             Austin [<emph render="italic">A Century of Sculpture in Texas, 1889 – 1989</emph>], and Yale University Art Gallery [<emph render="italic">South of the 
+                 Border:  Mexico in the American Imagination, 1914 – 1947</emph>]. 
+         </p>
+        </scopecontent>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">6</container>
+            <unittitle>Commission Work:  “Saint Andrews Episcopal Church, Altar File”[Grand Prairie, Texas]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">7</container>
+            <unittitle>Commission Work:  Temple Emanu-El, Dallas</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">8</container>
+            <unittitle>undated [miscellaneous - including birthday cards, correspondence with art supply company]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">9</container>
+            <unittitle>“Medellin Correspondence Prior to 1975” [begins in 1951]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">10</container>
+            <unittitle>“Medellin Correspondence 1977”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">11-12</container>
+            <unittitle>“Correspondence 1978”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">13</container>
+            <unittitle>“Correspondence 1979”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">14-15</container>
+            <unittitle>“Correspondence 1980”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">1-2</container>
+            <unittitle>“Correspondence 1981”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">3</container>
+            <unittitle>“Correspondence 1982”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">4-5</container>
+            <unittitle>“Correspondence 1983”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">6-7</container>
+            <unittitle>“Correspondence 1984” </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">8-9</container>
+            <unittitle>“Correspondence 1985”  </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">10</container>
+            <unittitle>“Correspondence 1986”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">11-12</container>
+            <unittitle>“Correspondence 1987”  </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">13</container>
+            <unittitle>“Correspondence 1988”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">14-15</container>
+            <unittitle>“Correspondence 1989” </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">1</container>
+            <unittitle>“Correspondence 1990”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">2-3</container>
+            <unittitle>“Correspondence 1991”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">4</container>
+            <unittitle>“Correspondence 1992”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">5</container>
+            <unittitle>Correspondence 1995</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="series4">
+        <did>
+   
+          <unittitle>Series 4: Documents:  1930 - 1996</unittitle>
+          <physdesc/>
+        </did>
+        <scopecontent>
+          <p>The Documents contain 45 items relating to Medellin’s art career including commission work and his 
+             art representative, Mitzi Watts.  Additional documents contain Medellin’s student roll books, dated 
+             circa 1953 through 1978, and information on the exhibition, <emph render="italic">A Century of Sculpture in Texas, 1889 – 
+                 1989</emph>, organized by the Huntington Art Gallery at the University of Texas at Austin.  Also included is 
+             an oral history transcription of an interview between Helen Stuhl, co-chairman of the Archives 
+             Committee at Temple Emanu-El in Dallas, Texas, and Rabbi Levi A. Olan, dated March 22, 1978, 
+             discussing the art work selected for the temple.
+         </p>
+        </scopecontent>
+        <c02>
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">1</container>
+            <unittitle>undated; Medellin’s autobiography [incomplete]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">2-3</container>
+            <unittitle>Commission Work:  Temple Emanu-El, Dallas, Texas </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">4</container>
+            <unittitle>Commission Work:  “Saint Andrews Episcopal Church, Altar File” 	[Grand Prairie, Texas]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">5</container>
+            <unittitle>1930s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">6</container>
+            <unittitle>1940s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">7</container>
+            <unittitle>1950s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">8</container>
+            <unittitle>Records and Roll Book; undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">9</container>
+            <unittitle>Records and Roll Book; circa 1953 - 1957</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">10</container>
+            <unittitle>Records and Roll Book; 1954 – 1955</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">11</container>
+            <unittitle>Records and Roll Book. 1957 – 1959</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">12</container>
+            <unittitle>Late 1950s – 1960s; The Hill &#x0026; Griffith Co. [foundry supplies and 	equipment]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">5</container>
+            <container type="Folder">1-3</container>
+            <unittitle>1970s </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">5</container>
+            <container type="Folder">4-7</container>
+            <unittitle>1980s </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">5</container>
+            <container type="Folder">8</container>
+            <unittitle>1990s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Box 4</container>
+            <unittitle>Certificate:  AIA Dallas, commendation presented to Octavio Medellin, from American Institute of Architects/Dallas, April 24, 1981</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="series5">
+        <did>
+      
+          <unittitle>Series 5: Ephemera:  circa 1972 – circa 1998</unittitle>
+          <physdesc/>
+        </did>
+        <scopecontent>
+          <p>The Ephemera files contain 134 items relating to such matters as Medellin’s endeavor to create 
+             “Sculptureware,” business cards, and notes for his design for the altar at Saint Andrew’s 
+             Church in Grand Prairie, Texas.  89 original notes taken from his art work, boxes, and photos are
+             housed with the cataloging sheets.
+         </p>
+        </scopecontent>
+        <c02>
+          <did>
+            <container type="Box">5</container>
+            <container type="Folder">9-11</container>
+            <unittitle>undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">5</container>
+            <container type="Folder">12</container>
+            <unittitle>Commission Work:  “Saint Andrews Episcopal Church, Altar File” 	[Grand Prairie, Texas</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">5</container>
+            <container type="Folder">13-14</container>
+            <unittitle>1970s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">5</container>
+            <container type="Folder">15</container>
+            <unittitle>1980s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">5</container>
+            <container type="Folder">16-25</container>
+            <unittitle>1990s:  cataloging sheets and original labels removed from 	art work, boxes, and photographs</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">5</container>
+            <container type="Folder">26-27</container>
+            <unittitle>1990s:  original labels removed from photographs and slide boxes; also includes original photographic envelopes with handwritten notes</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="series6">
+        <did>
+    
+          <unittitle>Series 6: Negatives/Slides: circa 1914 – circa 1994</unittitle>
+          <physdesc/>
+        </did>
+        <scopecontent>
+          <p>290 slides and 32 negatives are in archival photo/slide boxes and 5079 slides are in flat slide boxes.  The boxes contain images of Medellin, his family, colleagues, students, and his work.  </p>
+        </scopecontent>
+        <c02>
+          <did>
+            <unittitle>
+              <emph render="bold">Sub-series 1:  Correspondence [Negatives of photographs attached to correspondence - cross-referenced to correspondence files]:  1987 - 1989</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 1</container>
+            <container type="Folder">1</container>
+            <unittitle>“Correspondence 1987”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 1</container>
+            <container type="Folder">2</container>
+            <unittitle>“Correspondence 1989”</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>
+              <emph render="bold">Sub-series 2:  Medellin, Family, Friends, Other Artists:  circa 1914 – 1980</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 1</container>
+            <container type="Folder">3</container>
+            <unittitle>undated [Frank Angona and David Hickman]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 1</container>
+            <container type="Folder">4</container>
+            <unittitle>Early 1900s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 1</container>
+            <container type="Folder">5</container>
+            <unittitle>1960s [Creative Arts Center of Dallas and Dallas Museum of Fine Arts School]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 1</container>
+            <container type="Folder">6</container>
+            <unittitle>1960s [includes slide of Carlos Mérida]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 1</container>
+            <container type="Folder">7</container>
+            <unittitle>1970s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 1</container>
+            <container type="Folder">8</container>
+            <unittitle>1980s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>
+              <emph render="bold">Sub-series 3:  Medellin Sculpture:  1932 - 1994</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 1</container>
+            <container type="Folder">9-10</container>
+            <unittitle>1930s </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 1</container>
+            <container type="Folder">11</container>
+            <unittitle>1940s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 1</container>
+            <container type="Folder">12-13</container>
+            <unittitle>1950s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 1</container>
+            <container type="Folder">14-15</container>
+            <unittitle>1960s </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 1</container>
+            <container type="Folder">16</container>
+            <unittitle>1970s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 1</container>
+            <container type="Folder">17</container>
+            <unittitle>1980s [Construction of Medellin’s sculpture <emph render="italic">The Adolescent</emph>]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 1</container>
+            <container type="Folder">18</container>
+            <unittitle>1980s [Medellin’s sculpture <emph render="italic">The Adolescent</emph> and <emph render="italic">Mazanticutli</emph>]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 1</container>
+            <container type="Folder">19</container>
+            <unittitle>1980s [“All Sculpture Photos”]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 1</container>
+            <container type="Folder">20</container>
+            <unittitle>1980s [Sculpture photos – unfinished]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 1</container>
+            <container type="Folder">21-22</container>
+            <unittitle>1990s </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>
+              <emph render="bold">Sub-series 4:  Miscellaneous:  circa 1960s – circa 1990s</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 1</container>
+            <container type="Folder">23</container>
+            <unittitle>undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 1</container>
+            <container type="Folder">24</container>
+            <unittitle>1960s [slides of Marc Chagall’s stained glass windows <emph render="italic">Twelve Tribes of Israel</emph>]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 1</container>
+            <container type="Folder">25-26</container>
+            <unittitle>1990s [“around the studio grounds”]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>
+              <emph render="bold">Sub-series 5:  Projects:  circa 1953 – 1989</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 1</container>
+            <container type="Folder">27</container>
+            <unittitle>1950s [Mercantile National Bank, Dallas, Texas]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 1</container>
+            <container type="Folder">28</container>
+            <unittitle>1950s [St. Andrews Church, Grand Prairie, Texas</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 1</container>
+            <container type="Folder">29-30</container>
+            <unittitle>1950s [St. Bernard of Clairvaux, Dallas, Texas] </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 1</container>
+            <container type="Folder">31</container>
+            <unittitle>1950s [Temple Emanu-El, Dallas, Texas]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 1</container>
+            <container type="Folder">32</container>
+            <unittitle>1960s [Garden of the Glorious Mysteries, cemetery, Dallas, Texas]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 1</container>
+            <container type="Folder">33</container>
+            <unittitle>1980s [Prince of Peace Church, Austin, Texas]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 1</container>
+            <container type="Folder">34</container>
+            <unittitle>1980s [<emph render="italic">The Promised Land</emph>, Temple Emanu-El, Dallas; beginning of construction 1981]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 1</container>
+            <container type="Folder">35</container>
+            <unittitle>1980s [<emph render="italic">The Promised Land</emph>, Temple Emanu-El, Dallas, beginning of construction, 1981 and 1982]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 1</container>
+            <container type="Folder">36</container>
+            <unittitle>1980s [<emph render="italic">The Promised Land</emph>, Temple Emanu-El, Dallas, Red Sea section, 1982]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 1</container>
+            <container type="Folder">37</container>
+            <unittitle>1980s [<emph render="italic">The Promised Land</emph>, Temple Emanu-El, “Splitting of the Red 	Sea,” 1982</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 1</container>
+            <container type="Folder">38</container>
+            <unittitle>1980s [<emph render="italic">The Promised Land</emph>, Temple Emanu-El, installation, 1982]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 1</container>
+            <container type="Folder">39</container>
+            <unittitle>1980s [<emph render="italic">The Promised Land, Temple Emanu-El</emph>, dedication]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>
+              <emph render="bold">Sub-series 6:  Flat Slide Boxes:  1950s – circa 1980s.  Sub-series 6 includes links to digitized images from the <emph render="italic">Octavio Medellin:  Works of Art and Artistic Processes</emph> website for slide boxes 1 – 2, 4, 6 – 9, 11.</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Information for each box is the label identification written by Octavio Medellin.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Slide Box 1</container>
+            <unittitle>All Personal Work, Color Slides, Octavio Medellin.  All These Slides have been catalogued:</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Slide Box 1</container>
+            <unittitle>Landing Eagle</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Slide Box 1</container>
+            <unittitle>Bald Eagle</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Slide Box 1</container>
+            <unittitle>Altar</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Slide Box 1</container>
+            <unittitle>Hanging Pix</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Slide Box 1</container>
+            <unittitle>New City Hall</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Slide Box 1</container>
+            <unittitle>Salt and Pepper Shakers</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Slide Box 1</container>
+            <unittitle>River of Fire</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>
+              <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="http://digitalcollections.smu.edu/cdm/search/collection/med/searchterm/flat%20slide%20box%2001/field/slide/mode/exact/conn/and/order/upload">Flat Slide Box 01</extref>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Slide Box 2</container>
+            <unittitle>Octavio Medellin – These color slides constitute my personal work in various fields.  Some on known artist work during the opening of the Hemisfair in San Antonio, Tx.  Contemporary and old catholic churches in Mexico.  Seminar on sculpture in Vermont, Vermont Marble Co.  Hammered lead, investment of wax and bronze casting by students of the Medellin School of sculpture at the Creative Art Center, Dallas, Texas. Home and Studio in Bandera, Texas.  Lake and house in Daingerfield, Tx.  Young glass blowers in Monterrey, Mexico.  Glass Seminar, Toledo, Ohio, Harvey Littleton – Directing.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>
+              <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="http://digitalcollections.smu.edu/cdm/search/collection/med/searchterm/flat%20slide%20box%2002/field/slide/mode/exact/conn/and/order/upload">Flat Slide Box 02</extref>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Slide Box 3</container>
+            <unittitle>Student Work at:</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>The Dallas Museum of Fine Arts School</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>The Mendocino Art Center, Mendocino, CA</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Gainesville Arts, Inc., Gainesville, Texas</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>The Medellin School of Sculpture, Dallas, TX</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Slide Box 3</container>
+            <unittitle>Experiments with Clay:</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Terra-Cotta</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Direct Modeling</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Mold Making and Casting</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Armature Making</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Wood Carving</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Stone Carving</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Lost Wax, Bronze Casting</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Slide Box 4</container>
+            <unittitle>This box contains color slides of personal work in sculpture:</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Lead Repoussé</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Some Wood Carving</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Stone Carving</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Terra Cotta</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Armature Making</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>My First Experiment in Glass</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Mercantile National Bank Ceiling Glass Lights [Dallas, Texas]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>
+              <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="http://digitalcollections.smu.edu/cdm/search/collection/med/searchterm/flat%20slide%20box%2004/field/slide/mode/exact/conn/and/order/upload">Flat Slide Box 04</extref>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Slide Box 5</container>
+            <unittitle>Color slides, most personal work, Medellin</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Slide Box 6</container>
+            <unittitle>This box of slides contains the second and third trip to study relief carvings through many pre-Columbian ruins and temples:</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Tamuín</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Teopanzolco</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Xochicalco</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>The Museum of Guatemala City</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Quiriguá, Guatemala</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Kaminaljuyu, Guatemala</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Tula, Chichén Itzá, Yucatan</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Palenque, Chiapas</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>El Tajin, Veracruz</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Mitla, Uxmal</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>San Juan Teotihuacán and museum</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Tenayuca, Kabha, The Museum in Jalapa</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Monte Albán, Dzibilchaltún, La Venta</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Villahermosa, Tabasco Museum</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>
+              <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="http://digitalcollections.smu.edu/cdm/search/collection/med/searchterm/flat%20slide%20box%2006/field/slide/mode/exact/conn/and/order/upload">Flat Slide Box 06</extref>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Slide Box 7</container>
+            <unittitle>All these slides are catalogued:</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Trinity Lutheran Church [Dallas, Texas]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Dallas Studio</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Bishop Lynch High School [Dallas, Texas]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>St. Paul the Apostle [Richardson, Texas]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>[Catholic] Student Center [Austin, Texas]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Unitarian Church [Dallas, Texas]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>St. Henry’s Church [Freeport, Texas]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Temple Emanu-El [Dallas, Texas]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Calvary Hill Cemetery [Dallas, Texas]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Luis Potosi Chapel [Mexico]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>The Bather [sculpture]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>
+              <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="http://digitalcollections.smu.edu/cdm/search/collection/med/searchterm/flat%20slide%20box%2007/field/slide/mode/exact/conn/and/order/upload">Flat Slide Box 07</extref>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Slide Box 8</container>
+            <unittitle>Not identified by Medellin [contains images of his drawings completed at Chichén Itzá]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>
+              <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="http://digitalcollections.smu.edu/cdm/search/collection/med/searchterm/flat%20slide%20box%2008a-d/field/slide/mode/exact/conn/and/order/upload">Flat Slide Box 08</extref>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Slide Box 9</container>
+            <unittitle>All these slides are catalogued:</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Crucifix, St. Andrew Catholic Church [Fort Worth, Texas]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Candlesticks and Procession Cross [Bishop Mason Retreat Center, Grapevine, Texas]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Reflections in Glass [sculpture]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Uplifting Force [sculpture]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>
+              <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="http://digitalcollections.smu.edu/cdm/search/collection/med/searchterm/flat%20slide%20box%2009/field/slide/mode/exact/conn/and/order/upload">Flat Slide Box 09</extref>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Slide Box 10</container>
+            <unittitle>All these slides have been catalogued, ‘Prometheus.’  St. Andrews Episc. Church, Candlesticks, Medellin School Students, Wood, Stone Carving.  Metal Welded Constructions.  Sculpture Studio, C.A.C. Dallas</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Slide Box 11</container>
+            <unittitle>Temple of the Jaguar [Chichén Itzá]:  Wall carvings in relief, in the lower chamber.  This frieze in low relief carving, represent the base between the floor and the three lines of warriors.  #1 to #14.  #1A slide, relief carving on the outer wall of same chamber.  Color slides #1B – 2B-3B-8B-19B-24B are from block prints of this same project.  The original linoleum blocks and drawings were given to the Syracuse University, Collection of Manuscripts of Sculptors in 1963.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Slide Box 11</container>
+            <unittitle>Temple of the Jaguar [Chichén Itzá]:  Wall carving in relief, in the lower chamber:  #1 to #12 represent the upper line of the warriors; #5 and #6 are missing?  #13 to #24 represent the center line of warriors.  #25 to #36 represent the lower line of warriors.  These slides were taken from the original drawings that were made on actual site in 1938.  Original drawings of this research were given to the Syracuse University Library, Collection of Manuscript of Sculptors in 1963.</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>
+              <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="http://digitalcollections.smu.edu/cdm/search/collection/med/searchterm/flat%20slide%20box%2011/field/slide/mode/exact/conn/and/order/upload">Flat Slide Box 11</extref>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="series7">
+        <did>
+         
+          <unittitle>Series 7: Photographs:  circa 1914 - 1999</unittitle>
+          <physdesc/>
+        </did>
+        <scopecontent>
+          <p>461 photographs are in archival photo boxes.  The boxes contain images of Medellin, his family, colleagues, students, and his work. </p>
+        </scopecontent>
+        <c02>
+          <did>
+            <unittitle>
+              <emph render="bold">Sub-series 1:  Photographs attached to correspondence [cross-referenced to correspondence files] 1978 - 1991</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 2</container>
+            <container type="Folder">1</container>
+            <unittitle>1978 [“Correspondence 1978”]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 2</container>
+            <container type="Folder">2</container>
+            <unittitle>1981 [“Medellin Correspondence 1981”]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 2</container>
+            <container type="Folder">3</container>
+            <unittitle>1983 [“Correspondence 1983, Dr. H. C. Coggenthall Paintings”]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 2</container>
+            <container type="Folder">4</container>
+            <unittitle>1984 [“Correspondence 1984”]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 2</container>
+            <container type="Folder">5</container>
+            <unittitle>1985 [“Correspondence 1985”]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 2</container>
+            <container type="Folder">6</container>
+            <unittitle>1986 [“Correspondence 1986”]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 2</container>
+            <container type="Folder">7</container>
+            <unittitle>1987 [“Correspondence 1987”]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 2</container>
+            <container type="Folder">8</container>
+            <unittitle>1988 [“Correspondence 1988”]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 2</container>
+            <container type="Folder">9</container>
+            <unittitle>1989</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 2</container>
+            <container type="Folder">10</container>
+            <unittitle>1990 – 1991 [David Hickman]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>
+              <emph render="bold">Sub-series 2:  Medellin, Family, Friends and Other Artists:  circa 1914 - 1999</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 2</container>
+            <container type="Folder">11</container>
+            <unittitle>Undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 2</container>
+            <container type="Folder">12</container>
+            <unittitle>Undated [Frank Angona and David Hickman]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 2</container>
+            <container type="Folder">13</container>
+            <unittitle>Undated [Various Projects, Events, People]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 2</container>
+            <container type="Folder">14</container>
+            <unittitle>Early 1900s, original photograph of Medellin’s family taken around 1914 in Mexico; includes identification of family members</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 2</container>
+            <container type="Folder">15</container>
+            <unittitle>1950s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 2</container>
+            <container type="Folder">16</container>
+            <unittitle>1970s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 2</container>
+            <container type="Folder">17</container>
+            <unittitle>1980s [Photographs taken by David Hickman; includes 	Medellin’s sculpture at North Lake College, Irving, Texas]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 2</container>
+            <container type="Folder">18</container>
+            <unittitle>1980s [Creative Arts Center, student sculpture show, 1980]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/ Slide Box 2</container>
+            <container type="Folder">19</container>
+            <unittitle>1990s [Various Projects, Events, People]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Oversize Photographs:</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box"> Flat Photograph/ Slide 1</container>
+            <unittitle>1940s, 1950s, 1960s [images of Medellin]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>
+              <emph render="bold">Sub-series 3:  Medellin Sculpture:  1927 - 1994</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/Slide Box 2</container>
+            <container type="Folder">20</container>
+            <unittitle>Undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/Slide Box 2</container>
+            <container type="Folder">21</container>
+            <unittitle>Undated [various photos of unfinished work]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/Slide Box 2</container>
+            <container type="Folder">22</container>
+            <unittitle>1920s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/Slide Box 2</container>
+            <container type="Folder">23</container>
+            <unittitle>1930s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/Slide Box 2</container>
+            <container type="Folder">24</container>
+            <unittitle>1940s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/Slide Box 2</container>
+            <container type="Folder">25-27</container>
+            <unittitle>1950s </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/Slide Box 2</container>
+            <container type="Folder">28</container>
+            <unittitle>1960s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/Slide Box 2</container>
+            <container type="Folder">29</container>
+            <unittitle>1970s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/Slide Box 2</container>
+            <container type="Folder">30</container>
+            <unittitle>1970s [various photos of unfinished work]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/Slide Box 2</container>
+            <container type="Folder">31</container>
+            <unittitle>1980s [<emph render="italic">The Adolescent</emph>, construction and development]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/Slide Box 2</container>
+            <container type="Folder">32</container>
+            <unittitle>1980s [all sculpture photos]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/Slide Box 2</container>
+            <container type="Folder">33</container>
+            <unittitle>1980s [various photos of unfinished work]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/Slide Box 2</container>
+            <container type="Folder">34</container>
+            <unittitle>1980s [sculpture photos – unfinished]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Photograph/Slide Box 2</container>
+            <container type="Folder">35-36</container>
+            <unittitle>1990s</unittitle>
+          </did>
+        </c02>
+        <c02><did><unittitle>Matted Photographs:</unittitle></did></c02>
+        <c02><did><container type="Case">Museum Case Ap-1-12 thru 16:</container><unittitle>Medellin Sculpture [OM.98.2 – 6],</unittitle><unitdate>1960s</unitdate></did>
+          
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Oversize Photographs:</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Photograph/ Slide Box 2</container>
+            <unittitle>1930s - Medellin Sculpture </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Photograph/ Slide Box 3</container>
+            <unittitle>1940s - Medellin Sculpture </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Photograph/ Slide Box 4</container>
+            <unittitle>1950s - Medellin Sculpture </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>
+              <emph render="bold">Sub-series 4:  Miscellaneous:  1938 - 1992</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box"> Photograph/Slide Box 3</container>
+            <container type="Folder">1</container>
+            <unittitle>Undated [empty photo negatives sleeves]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box"> Photograph/Slide Box 3</container>
+            <container type="Folder">2</container>
+            <unittitle>1930s [duplicate photos from Medellin’s photo scrapbook <emph render="italic">Maya – Toltec Temples and Carvings</emph>, 1938]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box"> Photograph/Slide Box 3</container>
+            <container type="Folder">3</container>
+            <unittitle>1990s [“around the studio grounds”]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>
+              <emph render="bold">Sub-series 5:  Projects:  1953 - 1989</emph>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box"> Photograph/Slide Box 3</container>
+            <container type="Folder">4</container>
+            <unittitle>1950s [St. Andrews Church, Grand Prairie, Texas]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box"> Photograph/Slide Box 3</container>
+            <container type="Folder">5</container>
+            <unittitle>1950s [St. Bernard of Clairvaux Church, Dallas, Texas</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box"> Photograph/Slide Box 3</container>
+            <container type="Folder">6</container>
+            <unittitle>1950s [Temple Emanu-El, Dallas, Texas]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box"> Photograph/Slide Box 3</container>
+            <container type="Folder">7</container>
+            <unittitle>1960s [Garden of Glorious Memories, Dallas, Texas]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box"> Photograph/Slide Box 3</container>
+            <container type="Folder">8</container>
+            <unittitle>1970s [“Experiment in Production of Sand Casting in Aluminum”]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box"> Photograph/Slide Box 3</container>
+            <container type="Folder">9</container>
+            <unittitle>1980s [Prince of Peace Church, Austin, Texas]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box"> Photograph/Slide Box 3</container>
+            <container type="Folder">10</container>
+            <unittitle>1980s [Installation of Medellin’s sculpture <emph render="italic">The Promised Land</emph> at Temple Emanu-El, Dallas]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box"> Photograph/Slide Box 3</container>
+            <container type="Folder">11</container>
+            <unittitle>1980s [Dedication, <emph render="italic">The Promised Land</emph> at Temple Emanu-	El]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Oversize Photographs:</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Photograph/ Slide Box 5</container>
+            <unittitle>1950s – Mercantile Bank project [glass inserts] </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="series8">
+        <did>
+  
+          <unittitle>Series 8: Publicity:  1941 - 1996</unittitle>
+          <physdesc/>
+        </did>
+        <scopecontent>
+          <p>The Publicity files contain 77 items relating to Medellin’s career, including bulletins from North 
+                    Texas State Teachers College and brochures from the Medellin School of Sculpture and the Creative 
+                    Arts Center of Dallas.  Additional items include invitations and brochures from galleries and 
+                    museums exhibiting his work.
+                </p>
+        </scopecontent>
+        <c02>
+          <did>
+            <container type="Box">6</container>
+            <container type="Folder">1</container>
+            <unittitle>undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">6</container>
+            <container type="Folder">2</container>
+            <unittitle>1940s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">6</container>
+            <container type="Folder">3</container>
+            <unittitle>1960s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">6</container>
+            <container type="Folder">4</container>
+            <unittitle>1970s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">6</container>
+            <container type="Folder">5-7</container>
+            <unittitle>1980s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">6</container>
+            <container type="Folder">8</container>
+            <unittitle>1990s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Box 5</container>
+            <unittitle>Brochure [copies, oversize] - Medellin School of Sculpture, Creative Arts Center of Dallas, 122 E. Fifth Street, Dallas, Texas  75203, 1969 - 1970</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Box 5</container>
+            <unittitle>Posters , North Lake College  Irving, Texas; mentions the unveiling of Medellin’s sculpture on October 6, 1987</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>1987 Calendar</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>1987 – 1988 Calendar</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="series9">
+        <did>
+
+          <unittitle>Series 9: Published Works:  1943 - 1997</unittitle>
+          <physdesc/>
+        </did>
+        <scopecontent>
+          <p>106 items in the Published Works files include art portfolios, books, catalogues, and newsletters 
+                    relating to Medellin’s art career, travels, his interest in pre-Columbian and Mexican art, and 
+                    his contemporaries.
+                </p>
+        </scopecontent>
+        <c02>
+          <did>
+            <container type="Box">6</container>
+            <container type="Folder">9</container>
+            <unittitle>undated</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">6</container>
+            <container type="Folder">10</container>
+            <unittitle>1940s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">6</container>
+            <container type="Folder">11</container>
+            <unittitle>1950s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">6</container>
+            <container type="Folder">12</container>
+            <unittitle>1970s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">6</container>
+            <container type="Folder">13</container>
+            <unittitle>1990s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Box 5</container>
+            <unittitle><emph render="italic">Dipinti Di Leonardo Da Vinci</emph> [portfolio; incomplete]</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Box 6</container>
+            <unittitle>Publications containing photographs of Medellin’s work or of special interest to the artist; including, <emph render="italic">Artforum</emph>, <emph render="italic">Prism</emph>, Neiman Marcus [<emph render="italic">The Book</emph>, <emph render="italic"> The Guide – The Anniversary House</emph>], <emph render="italic">Southern Accents</emph></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="series10">
+        <did>
+
+          <unittitle>Series 10: Scrapbooks:  1938 - 1996</unittitle>
+          <physdesc/>
+        </did>
+        <scopecontent>
+          <p>The three scrapbooks are in their original bindings.  The scrapbook entitled <emph render="italic">Maya-Toltec Temples and 
+                    Carvings</emph>, 1938 is post-bound with a hand-made wooden cover and back.  The 181 black and white 
+                    photographs taken by Octavio Medellin documents his six-month travel in Mexico with his family in 
+                    Mexico where he studied the Mayan ruins at Chichén Itzá and Uxmal.  
+                </p>
+          <p>The second scrapbook is fabric covered with a spiral binding and consist of 107 color photographs 
+                    and 2 black and white photographs.  The photographs are images of Octavio Medellin, Consuelo 
+                    Medellin [wife], Patsy Medellin McDonald [daughter], David Hickman [artist], Marty Ray [artist], 
+                    Patricia Meadows, and Sam Ratcliffe.  The photographs were taken at various locations including 
+                    Medellin’s home and sculpture studio [Bandera, Texas], St. Bernard of Clairvaux [Dallas, Texas] and 
+                    North Lake College [Irving, Texas]. 
+                </p>
+          <p>The third scrapbook has a brown leather binding with the name “Octavio Medellin” imprinted on the spine.  The scrapbook contains brochures, magazine and newspaper clippings, exhibition catalogues, and newsletters documenting the artist’s career, circa 1943 – 1996.</p>
+        </scopecontent>
+        <c02>
+          <did>
+            <container type="Shelf">Metal shelf “Medellin”</container>
+            <unittitle><emph render="italic">Maya-Toltec Temples and Carvings</emph>, 1938 </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Box 7</container>
+            <unittitle>Untitled, circa 1980s – circa 1990s</unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">Flat Box 8</container>
+            <unittitle>
+              <emph render="italic">Octavio Medellin</emph>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="series11">
+        <did>
+
+          <unittitle>Series 11: Three-Dimensional Objects:  1977</unittitle>
+          <physdesc/>
+        </did>
+        <scopecontent>
+          <p>The one three-dimensional object is a plaque with a metal plate mounted on a wood base.</p>
+        </scopecontent>
+        <c02>
+          <did>
+            <container type="Box">Flat Box 9</container>
+            <unittitle>Plaque, presented to Octavio Medellin from the Texas Fine Arts 	Association, Region 2, Lifetime Membership, November, 1977; inscribed: “For His Continuous and Outstanding Contributions to 	the Visual Arts”</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
