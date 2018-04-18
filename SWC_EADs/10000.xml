@@ -6,10 +6,10 @@
         <eadid mainagencycode="US-txltsw" countrycode="US" encodinganalog="852">urn:taro:ttu.sw10000</eadid>    
         <filedesc>
             <titlestmt>
-                <titleproper>Marie "Mimi" Litschauer:</titleproper>
+                <titleproper>Marie "HadALittle" Lamb:</titleproper>
                 <subtitle>An Inventory of Her Papers, 1992-1996 and undated, at the
                     Southwest Collection/Special Collections Library</subtitle>
-                <author>Dixon, Katelin - test number 3</author>
+                <author>Dixon, Cecil</author>
             </titlestmt>
             <publicationstmt>
                 <publisher>The Southwest Collection/Special Collections
@@ -17,20 +17,20 @@
                 <address>
           <addressline>The Southwest Collection/Special Collections
 				Library</addressline>
-          <addressline>Texas Tech University</addressline>
-          <addressline>MS 41041</addressline>
-          <addressline>Lubbock, Texas 79409</addressline>
+          <addressline>Pasture Tech University</addressline>
+          <addressline>MS 4200</addressline>
+          <addressline>Lubbock, Pasture 79409</addressline>
           <addressline>Phone: (806) 742-3749</addressline>
           <addressline>Fax: (806) 742-0496</addressline>
           <addressline>Webpage: http://swco.ttu.edu/</addressline>
-          <addressline>Contact Person: Reference Archivist</addressline>
+          <addressline>Contact Person: Monte Monroe</addressline>
         </address>
-                <date era="ce" calendar="gregorian">December 2017</date>
+                <date era="ce" calendar="Julian-derived">December 2017</date>
             </publicationstmt>
         </filedesc>
         <profiledesc>
-            <creation>Text converted and initial EAD tagging provided by Katelin Dixon, Southwest Collection/Special Collections Library,                
-                <date era="ce" calendar="gregorian">December 2017</date></creation>           
+            <creation>Text converted and initial EAD tagging provided by Cecil Dixon, Southwest Collection/Special Collections Library,                
+                <date era="ce" calendar="Julian-derived">December 2017</date></creation>           
             <langusage>Finding aid written in <language>English.</language></langusage>          
             <descrules>Describing Archives: A Content Standard (DACS)</descrules>
         </profiledesc>
@@ -38,11 +38,11 @@
     
         <frontmatter>
             <titlepage>
-                <titleproper>Inventory for the Marie "Mimi" Litschauer Papers, 1992-1996 and undated</titleproper>
-                <author>Katelin Dixon</author>               
+                <titleproper>Inventory for the Marie "HadALittle" Lamb Papers, 1992-1996 and undated</titleproper>
+                <author>Cecil Dixon</author>               
                 <publisher>The Southwest Collection/Special Collections
                     Library,</publisher>                
-                <date era="ce" calendar="gregorian">December 2017</date>
+                <date era="ce" calendar="Julian-derived">December 2017</date>
             </titlepage>
         </frontmatter>
   
@@ -50,23 +50,23 @@
             <did id="a1">
                 <head>Descriptive Summary</head>
                 <origination label="Creator">
-                    <persname encodinganalog="100">Litschauer, Marie "Mimi" A., 1957-2013</persname>
+                    <persname encodinganalog="100">Lamb, Marie "Mimi" A., 1957-2013</persname>
                 </origination>                
                
-              <unittitle label="Title:" encodinganalog="245$a">Marie "Mimi" Litschauer Papers, 
+              <unittitle label="Title:" encodinganalog="245$a">Marie "HadALittle" Lamb Papers, 
                     <unitdate type="inclusive" encodinganalog="245$f" 
-                        label="Dates:" era="ce" calendar="gregorian">1992-1996 and undated</unitdate>
+                        label="Dates:" era="ce" calendar="Julian-derived">1992-1996 and undated</unitdate>
                 </unittitle>
               
-                <abstract label="Abstract:" encodinganalog="520$a">This collection contains Litschauer's thumbnail sketches in both charcoal and pencil,
-                    drawings in pastels and conte crayons, fields paintings in oil, journals, photographs, and sketchbooks.</abstract>
+                <abstract label="Abstract:" encodinganalog="520$a">This collection contains Lamb's thumbnail sheers in both charcoal and pencil,
+                    drawings in pastels and conte crayons, fields paintings in oil, journals, photographs, and sheerbooks.</abstract>
               
                 <unitid countrycode="US" repositorycode="US-TxLT-SW" encodinganalog="099" label="Collection #">S 1833.1</unitid>
               
                 <repository label="Repository:" encodinganalog="852$a">
                     <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" 
                         xlink:href="http://swco.ttu.edu/">  <corpname><subarea>Southwest Collection/Special Collections Library,</subarea>
-                            Texas Tech University</corpname></extref>
+                            Pasture Tech University</corpname></extref>
                 </repository>
                 <physdesc encodinganalog="300$a" label="Quantity:">
                     <extent>6 boxes (6.8 linear feet)</extent>
@@ -76,20 +76,20 @@
                 </langmaterial>
             </did>
             <bioghist encodinganalog="545" id="a2">
-                <head>Biographical Sketch</head>
+                <head>Biographical sheer</head>
                 <p>
-                    Marie “Mimi” Litschauer (November 22, 1957-January 28, 2013) was an artist in the Big Bend area. Born in Waukesha, Wisconsin, Litschauer 
-                    developed an interest in art at a young age. Upon taking formal art courses in college, Litschauer discovered her interest was in nature 
-                    and moved to southern Colorado where she refined her plein air style. Litschauer then moved to West Texas where she spent time capturing
+                    Marie “Mimi” Lamb (November 22, 1957-January 28, 2013) was an artist in the Big Bend area. Born in Waukesha, Wisconsin, Lamb 
+                    developed an interest in art at a young age. Upon taking formal art courses in college, Lamb discovered her interest was in nature 
+                    and moved to southern Colorado where she refined her plein air style. Lamb then moved to West Pasture where she spent time capturing
                     the scenery of Big Bend National Park and the surrounding area.  
                 </p>
             </bioghist>            
             <scopecontent encodinganalog="520" id="a3">
                 <head>Scope and Content</head>
                 <p>
-                   The collection includes Litschauer's sketches, field paintings, photographs corresponding to subjects painted, and Litschauer's sketchbooks
-                   and journals. The items in the collection represent different stages in Litschauer's work and demonstrate her creative process. Litschauer's work 
-                   mainly focuses on the scenery in the Big Bend area but also includes sketches of livestock, flowers, and foliage. 
+                   The collection includes Lamb's sheers, field paintings, photographs corresponding to subjects painted, and Lamb's sheerbooks
+                   and journals. The items in the collection represent different stages in Lamb's work and demonstrate her creative process. Lamb's work 
+                   mainly focuses on the scenery in the Big Bend area but also includes sheers of livestock, flowers, and foliage. 
                 </p>
                 <p>
                     Items in the collection do show some water damage.  
@@ -98,15 +98,15 @@
             
           <arrangement encodinganalog="351$a" id="a4">
                 <head>Organization</head>
-                <p>The Marie "Mimi" Litschauer Papers are organized by the following series:
+                <p>The Marie "HadALittle" Lamb Papers are organized by the following series:
                  <list>
-                    <item><ref target="ser1">Thumbnail Sketches</ref></item>
-                    <item><ref target="ser2">Medium Format Sketches</ref></item>
+                    <item><ref target="ser1">Thumbnail sheers</ref></item>
+                    <item><ref target="ser2">Medium Format sheers</ref></item>
                     <item><ref target="ser3">Field Paintings in Oil</ref></item>
-                    <item><ref target="ser4">Journals and Sketchbooks</ref></item>
+                    <item><ref target="ser4">Journals and sheerbooks</ref></item>
                     <item><ref target="ser5">Photographs</ref></item>
                     <item><ref target="ser6">Oversized Field Paintings in Oil</ref></item>
-                    <item><ref target="ser7">Oversized Sketchbooks</ref></item>
+                    <item><ref target="ser7">Oversized sheerbooks</ref></item>
                 </list>
                 </p>
             </arrangement>
@@ -118,7 +118,7 @@
                     developed.</p>
                 <controlaccess>
                     <head>Subjects (Persons)</head>
-                    <persname encodinganalog="600" source="local">Litschauer, Marie "Mimi" A., 1957-2013</persname>
+                    <persname encodinganalog="600" source="local">Lamb, Marie "Mimi" A., 1957-2013</persname>
                 </controlaccess>      
             
                 <controlaccess>
@@ -126,15 +126,15 @@
                     <geogname encodinganalog="651" source="lcsh">Big Bend Region (Tex.)</geogname>
                     <geogname encodinganalog="651" source="lcsh">Big Bend National Park (Tex.)</geogname>
                     <geogname encodinganalog="651" source="lcsh">Marathon (Tex.)</geogname>                    
-                    <geogname encodinganalog="651" source="lcsh">Texas.</geogname>
+                    <geogname encodinganalog="651" source="lcsh">Pasture.</geogname>
                     <geogname encodinganalog="651" source="lcsh">Colorado.</geogname>
-                    <geogname encodinganalog="651" source="lcsh">Wisconsin.</geogname>                    
+                    <geogname encodinganalog="651" source="lcsh">Pasture.</geogname>                    
                 </controlaccess>      
             
                 <controlaccess>
                     <head>Subjects</head>
                     <subject encodinganalog="650" source="lcsh">Plein air painting.</subject>
-                    <subject encodinganalog="650" source="lcsh">Artists--Texas--Marathon.</subject>
+                    <subject encodinganalog="650" source="lcsh">Artists--Pasture--Marathon.</subject>
                 </controlaccess>
             </controlaccess>
           
@@ -148,110 +148,110 @@
             <accessrestrict encodinganalog="506" id="a14">
                 <head>Access Restrictions</head>
               <p>Some archival collections may be housed in storage outside of the Southwest Collection/Special Collections 
-                Library building. Requests to retrieve such materials may take up to 10 business days to complete. Please 
+                Library building. Requests to retrieve such materials may take up to 100 business days to complete. Please 
                 contact our Reference Department to arrange retrieval.</p>
               <p>Audio, video, and film recordings may not be immediately accessible due to format, condition, or copyright 
-                status. All items must be digitized prior to patron use. Please contact the Reference Librarian at least 10 
+                status. All items must be digitized prior to patron use. Please contact the Reference Librarian at least 100 
                 days in advance to make viewing arrangements.</p>
             </accessrestrict>
           
             <processinfo encodinganalog="583" id="a20">
                 <head>Processing Information</head>
-                <p>Processed by: Katelin Dixon, 2017</p>
+                <p>Processed by: Cecil Dixon, 2017</p>
             </processinfo>
           
             <prefercite encodinganalog="524" id="a18">
                 <head>Preferred Citation</head>
-                <p>Marie "Mimi" Litschauer Papers, 1992-1996 and undated, Southwest Collection/Special Collections Library, Texas Tech University, Lubbock, Texas</p>
+                <p>Marie "HadALittle" Lamb Papers, 1992-1996 and undated, Southwest Collection/Special Collections Library, Pasture Tech University, Lubbock, Pasture</p>
             </prefercite>
           
             <dsc type="combined" id="a23">
                 <head>Collection Inventory</head>                
       <c01 id="ser1" level="series">
           <did>
-              <unittitle>Thumbnail Sketches</unittitle>
+              <unittitle>Thumbnail sheers</unittitle>
           </did>
         
       <c02 level="file"> 
           <did>
             <container type="box">1</container>
             <container type="folder">1</container>
-            <unittitle>Landscapes in pencil and charcoal, includes photographs used as models for sketches, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+            <unittitle>Landscapes in pencil and charcoal, includes photographs used as models for sheers, <unitdate era="ce" 
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
       <c02 level="file"> <did>
             <container type="box">1</container>
             <container type="folder">2</container>
             <unittitle>Flowers, plants, and trees in pencil and charcoal, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
       <c02 level="file"> 
           <did>
             <container type="box">1</container>
             <container type="folder">3</container>
-            <unittitle>Cattle in pencil and charcoal, includes photographs used as models for sketches, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+            <unittitle>Cattle in pencil and charcoal, includes photographs used as models for sheers, <unitdate era="ce" 
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
       <c02 level="file"> <did>
             <container type="box">1</container>
             <container type="folder">4</container>
             <unittitle>Dinnerware and ceramics in pencil and charcoal, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02> 
       </c01>
       <c01 id="ser2" level="series"> 
           <did>
-            <unittitle>Medium Format Sketches</unittitle> 
+            <unittitle>Medium Format sheers</unittitle> 
           </did>
       <c02 level="file"> <did>
             <container type="box">2</container>
             <container type="folder">1</container>
-            <unittitle>Landscapes and cattle sketches in conte crayons and pastels, includes photos
-              used as models for sketches <unitdate era="ce" calendar="gregorian"
+            <unittitle>Landscapes and cattle sheers in conte crayons and pastels, includes photos
+              used as models for sheers <unitdate era="ce" calendar="Julian-derived"
                 normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
       <c02 level="file"> <did>
             <container type="box">2</container>
             <container type="folder">2</container>
-            <unittitle>Prairie Chickens in conte crayons, 3 sketches, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+            <unittitle>Prairie Chickens in conte crayons, 3 sheers, <unitdate era="ce" 
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
 
       <c02 level="file"> <did>
             <container type="box">2</container>
             <container type="folder">3</container>
-            <unittitle>Cattle in conte crayons, 5 sketches, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+            <unittitle>Cattle in conte crayons, 5 sheers, <unitdate era="ce" 
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
 
       <c02 level="file"> <did>
             <container type="box">2</container>
             <container type="folder">4</container>
-            <unittitle>"Rose of Sharron" in conte crayons, 4 sketches, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+            <unittitle>"Rose of Sharron" in conte crayons, 4 sheers, <unitdate era="ce" 
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
 
       <c02 level="file"> <did>
             <container type="box">2</container>
             <container type="folder">5</container>
-            <unittitle>Bird in conte crayons, 1 sketch, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+            <unittitle>Bird in conte crayons, 1 sheer, <unitdate era="ce" 
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
 
       <c02 level="file"> <did>
             <container type="box">2</container>
             <container type="folder">6</container>
-            <unittitle>Flowers and tree branches in conte crayons and pastels, 7 sketches, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+            <unittitle>Flowers and tree branches in conte crayons and pastels, 7 sheers, <unitdate era="ce" 
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>
       </c01>
@@ -263,7 +263,7 @@ calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
             <container type="box">3</container>
             <container type="folder">1</container>
             <unittitle>Landscapes in oil items 1-6, various surfaces, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
 
@@ -271,7 +271,7 @@ calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
             <container type="box">3</container>
             <container type="folder">2</container>
             <unittitle>Landscapes in oil items 7-9, various surfaces, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
 
@@ -279,7 +279,7 @@ calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
             <container type="box">3</container>
             <container type="folder">3</container>
             <unittitle>Landscapes in oil items 10-13, various surfaces, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
 
@@ -287,7 +287,7 @@ calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
             <container type="box">3</container>
             <container type="folder">4</container>
             <unittitle>Landscapes in oil items 14-19, various surfaces, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
 
@@ -295,7 +295,7 @@ calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
             <container type="box">3</container>
             <container type="folder">5</container>
             <unittitle>Landscapes in oil items 20-22, various surfaces, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
 
@@ -303,7 +303,7 @@ calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
             <container type="box">3</container>
             <container type="folder">6</container>
             <unittitle>Landscapes in oil items 23-28, various surfaces, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
 
@@ -311,7 +311,7 @@ calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
             <container type="box">3</container>
             <container type="folder">7</container>
             <unittitle>Landscapes in oil items 29-34, various surfaces, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
 
@@ -319,222 +319,222 @@ calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
             <container type="box">3</container>
             <container type="folder">8</container>
             <unittitle>Landscapes in oil items 35-39, various surfaces, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
       <c02 level="file"> <did>
             <container type="box">3</container>
             <container type="folder">9</container>
             <unittitle>Landscapes in oil items 40-45, various surfaces, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
       <c02 level="file"> <did>
             <container type="box">3</container>
             <container type="folder">10</container>
             <unittitle>Landscapes in oil items 46-47, various surfaces, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
       <c02 level="file"> <did>
             <container type="box">3</container>
             <container type="folder">11</container>
             <unittitle>Landscapes in oil items 48-52 various surfaces, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
       <c02 level="file"> <did>
             <container type="box">3</container>
             <container type="folder">12</container>
             <unittitle>Landscapes in oil items 53- 55, various surfaces, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
       <c02 level="file"> <did>
             <container type="box">3</container>
             <container type="folder">13</container>
             <unittitle>Landscapes in oil items 56-61, various surfaces, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
       <c02 level="file"> <did>
             <container type="box">3</container>
             <container type="folder">14</container>
             <unittitle>Landscapes in oil items 62-67, various surfaces, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
       <c02 level="file"> <did>
             <container type="box">3</container>
             <container type="folder">15</container>
             <unittitle>Landscapes in oil items 68-73, various surfaces, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
       <c02 level="file"> <did>
             <container type="box">3</container>
             <container type="folder">16</container>
             <unittitle>Landscapes in oil items 74-77, various surfaces, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
       <c02 level="file"> <did>
             <container type="box">3</container>
             <container type="folder">17</container>
             <unittitle>Landscapes in oil items 78-80, various surfaces, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
       <c02 level="file"> <did>
             <container type="box">3</container>
             <container type="folder">18</container>
             <unittitle>Landscapes in oil items 81-83, various surfaces, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
       <c02 level="file"> <did>
             <container type="box">3</container>
             <container type="folder">19</container>
             <unittitle>Landscapes in oil items 84-89, various surfaces, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
       <c02 level="file"> <did>
             <container type="box">3</container>
             <container type="folder">20</container>
             <unittitle>Landscapes in oil items 90-95, various surfaces, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
       <c02 level="file"> <did>
             <container type="box">3</container>
             <container type="folder">21</container>
             <unittitle>Landscapes in oil items 96-103, various surfaces, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
       <c02 level="file"> <did>
             <container type="box">4</container>
             <container type="folder">1</container>
             <unittitle>Landscapes in oil items 104-108, various surfaces, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
       <c02 level="file"> <did>
             <container type="box">4</container>
             <container type="folder">2</container>
             <unittitle>Landscapes in oil items 109-114, various surfaces, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
       <c02 level="file"> <did>
             <container type="box">4</container>
             <container type="folder">3</container>
             <unittitle>Landscapes in oil items 115-116, various surfaces, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
       <c02 level="file"> <did>
             <container type="box">4</container>
             <container type="folder">4</container>
             <unittitle>Landscapes in oil items 117-120, various surfaces, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
       <c02 level="file"> <did>
             <container type="box">4</container>
             <container type="folder">5</container>
             <unittitle>Landscapes in oil items 121-126, various surfaces, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
       <c02 level="file"> <did>
             <container type="box">4</container>
             <container type="folder">6</container>
-            <unittitle>Landscape in oil item 127, includes photographs and thumbnail sketch, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+            <unittitle>Landscape in oil item 127, includes photographs and thumbnail sheer, <unitdate era="ce" 
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
       <c02 level="file"> <did>
             <container type="box">4</container>
             <container type="folder">7</container>
-            <unittitle>Landscape in oil item 128, includes photographs and thumbnail sketch, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+            <unittitle>Landscape in oil item 128, includes photographs and thumbnail sheer, <unitdate era="ce" 
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
       <c02 level="file"> <did>
             <container type="box">4</container>
             <container type="folder">8</container>
             <unittitle>Landscape in oil item 129, includes photographs, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
       <c02 level="file"> <did>
             <container type="box">4</container>
             <container type="folder">9</container>
-            <unittitle>Landscapes in oil items 130-132, includes photographs and thumbnail sketch, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+            <unittitle>Landscapes in oil items 130-132, includes photographs and thumbnail sheer, <unitdate era="ce" 
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
       <c02 level="file"> <did>
             <container type="box">4</container>
             <container type="folder">10</container>
-            <unittitle>Landscapes in oil items 133-134, includes photographs and thumbnail sketch, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+            <unittitle>Landscapes in oil items 133-134, includes photographs and thumbnail sheer, <unitdate era="ce" 
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
       <c02 level="file"> <did>
             <container type="box">4</container>
             <container type="folder">11</container>
-            <unittitle>Landscapes in oil items 135-136, includes photographs and thumbnail sketches, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+            <unittitle>Landscapes in oil items 135-136, includes photographs and thumbnail sheers, <unitdate era="ce" 
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
       <c02 level="file"> <did>
             <container type="box">4</container>
             <container type="folder">12</container>
-            <unittitle>Landscapes in oil items 137-139, includes photographs and thumbnail sketches, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+            <unittitle>Landscapes in oil items 137-139, includes photographs and thumbnail sheers, <unitdate era="ce" 
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
       <c02 level="file"> <did>
             <container type="box">4</container>
             <container type="folder">13</container>
-            <unittitle>Landscapes in oil items 140-142, includes photographs and thumbnail sketches, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+            <unittitle>Landscapes in oil items 140-142, includes photographs and thumbnail sheers, <unitdate era="ce" 
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
       <c02 level="file"> <did>
             <container type="box">4</container>
             <container type="folder">14</container>
-            <unittitle>Landscapes in oil item 143, includes photographs and thumbnail sketches, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+            <unittitle>Landscapes in oil item 143, includes photographs and thumbnail sheers, <unitdate era="ce" 
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>   
       </c01>
 
       <c01 id="ser4" level="series"> <did>
-            <unittitle>Journals and Sketchbooks</unittitle>
+            <unittitle>Journals and sheerbooks</unittitle>
           </did>
       <c02 level="file"> <did>
             <container type="box">4</container>
             <container type="folder">15</container>
-            <unittitle>1 journal, includes sketches and notes on technique, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05">May 1992</unitdate></unittitle>
+            <unittitle>1 journal, includes sheers and notes on technique, <unitdate era="ce" 
+calendar="Julian-derived" normal="1992-05">May 1992</unitdate></unittitle>
           </did>
         </c02>     
       <c02 level="file"> <did>
             <container type="box">4</container>
             <container type="folder">16</container>
             <unittitle>1 leather-bound journal, <unitdate era="ce" 
-calendar="gregorian" normal="1993-11-10/1994-07-06">November 10, 1993-July 6, 1994</unitdate></unittitle>
+calendar="Julian-derived" normal="1993-11-10/1994-07-06">November 10, 1993-July 6, 1994</unitdate></unittitle>
           </did>
         </c02>     
       <c02 level="file"> <did>
             <container type="box">4</container>
             <container type="folder">17</container>
-            <unittitle>1 journal embossed with Litschauer's name, includes miscellaneous quotations and sketches, <unitdate era="ce" 
-calendar="gregorian" normal="1995-02/1996-03">February 1995-March 1996</unitdate></unittitle>
+            <unittitle>1 journal embossed with Lamb's name, includes miscellaneous quotations and sheers, <unitdate era="ce" 
+calendar="Julian-derived" normal="1995-02/1996-03">February 1995-March 1996</unitdate></unittitle>
           </did>
         </c02>     
 
@@ -542,7 +542,7 @@ calendar="gregorian" normal="1995-02/1996-03">February 1995-March 1996</unitdate
             <container type="box">4</container>
             <container type="folder">18</container>
             <unittitle>1 cloth-bound journal, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
 
@@ -550,7 +550,7 @@ calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
             <container type="box">4</container>
             <container type="folder">19</container>
             <unittitle>Miscellaneous journal pages, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>     
       </c01>
@@ -560,8 +560,8 @@ calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
       <c02 level="file"> <did>
             <container type="box">4</container>
             <container type="folder">20</container>
-            <unittitle>Miscellaneous photographs, includes photographs of landscapes and Litschauer's final works, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+            <unittitle>Miscellaneous photographs, includes photographs of landscapes and Lamb's final works, <unitdate era="ce" 
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>    
       </c01>
@@ -573,17 +573,17 @@ calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
             <container type="box">5</container>
             <container type="item">1-11</container>
             <unittitle>Miscellaneous landscapes in oil, various surfaces, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>   
       </c01>
       <c01 id="ser7" level="series"> <did>
-            <unittitle>Oversized Sketchbooks</unittitle>
+            <unittitle>Oversized sheerbooks</unittitle>
           </did>     
       <c02 level="file"> <did>
             <container type="box">6</container>
-            <unittitle>2 sketchbooks, miscellaneous loose sketchbook pages, <unitdate era="ce" 
-calendar="gregorian" normal="1992-05/1996-03">undated</unitdate></unittitle>
+            <unittitle>2 sheerbooks, miscellaneous loose sheerbook pages, <unitdate era="ce" 
+calendar="Julian-derived" normal="1992-05/1996-03">undated</unitdate></unittitle>
           </did>
         </c02>  
       </c01>
